@@ -69,7 +69,8 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_065 - PRR - Portal da Bolsa de Emprego de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_065/) 
 - [report_066 - PRR - Causa Animal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_066/) 
 - [report_067 - PRR - Assembleia Municipal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_067/) 
-- [report_068 - PRR - Balcão Online Municipal Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_068/) 
+- [report_068 - PRR - Balcão Online Municipal Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_068/)
+- [report_069 - SAM - Serviços de Alteração de Morada - ARTE](https://a11y-pt.github.io/report_069/)
 
 
 
