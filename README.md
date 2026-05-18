@@ -71,6 +71,11 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_067 - PRR - Assembleia Municipal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_067/) 
 - [report_068 - PRR - Balcão Online Municipal Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_068/)
 - [report_069 - SAM - Serviços de Alteração de Morada - ARTE](https://a11y-pt.github.io/report_069/)
+- [report_070 - PRR - Serviços Municipalizados de Alcobaça - Visual Forma](https://a11y-pt.github.io/report_70/)
+- [report_071 - Agência de Gestão da Tesouraria e da Dívida Pública - IGCP E.P.E.](https://a11y-pt.github.io/report_71/)
+- [report_072 - Entidade do Tesouro e Finanças - ETF](https://a11y-pt.github.io/report_72/)
+
+
 
 
 
