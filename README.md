@@ -56,7 +56,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_052 - PRR - Câmara Municipal de Felgueiras](https://a11y-pt.github.io/report_052/)
 - [report_053 - BUPi - eBUPi](https://a11y-pt.github.io/report_053/)
 - [report_054 - APPACDM Viseu](https://a11y-pt.github.io/report_054/)
-- [report_055 - PRR - Municipio de São João da Madeira APP Android](https://a11y-pt.github.io/report_055/)
+- [report_055 - PRR - Portal Institucional do Município de Oeiras](https://a11y-pt.github.io/report_055/)
 - [report_056 - PRR - Câmara Municipal Celorico de Basto](https://a11y-pt.github.io/report_056/)
 - [report_057 - Plataforma de indicadores, estatísticas e dados abertos da Justiça - DGPJ](https://a11y-pt.github.io/report_057/)
 - [report_058 - POLEN - FCCN](https://a11y-pt.github.io/report_058/)
