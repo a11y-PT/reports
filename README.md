@@ -61,7 +61,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_057 - Plataforma de indicadores, estatísticas e dados abertos da Justiça - DGPJ](https://a11y-pt.github.io/report_057/)
 - [report_058 - POLEN - FCCN](https://a11y-pt.github.io/report_058/)
 - [report_059 - PRR Portal da Defesa Nacional - Secretaria-Geral do Ministério da Defesa Nacional](https://a11y-pt.github.io/report_059/)
-- [report_060 - PRR - Câmara Municipal de Câmara de Lobos](https://a11y-pt.github.io/report_060/)
+- [report_060 - PRR - Câmara Municipal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_060/)
 - [report_061 - PRR - Agenda Municipal de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_061/)
 - [report_062 - PRR - Urbanismo de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_062/)
 - [report_063 - PRR - Portal do Associativismo de Câmara de Lobos - WNPC](https://a11y-pt.github.io/report_063/)
