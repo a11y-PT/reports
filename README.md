@@ -77,6 +77,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_073 - Provedoria de Justiça](https://a11y-pt.github.io/report_73/)
 - [report_074 - PRR - Associação para a Inclusão do Cidadão com Necessidades Especiais - Associação INCLUIR](https://a11y-pt.github.io/report_74/)
 - [report_075 - Câmara Municipal da Praia da Vitória - Município Praia da Vitória](https://a11y-pt.github.io/report_75/)
+- [report_076 - Câmara Municipal de Machico - Município de Machico](https://a11y-pt.github.io/report_76/)
 
 
 
