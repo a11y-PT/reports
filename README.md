@@ -78,7 +78,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_074 - PRR - Associação para a Inclusão do Cidadão com Necessidades Especiais - Associação INCLUIR](https://a11y-pt.github.io/report_074/)
 - [report_075 - Câmara Municipal da Praia da Vitória - Município Praia da Vitória](https://a11y-pt.github.io/report_075/)
 - [report_076 - PRR - Câmara Municipal de Machico - Município de Machico](https://a11y-pt.github.io/report_076/)
-- [report_077 - Subsídio Social de Mobilidade - ARTE](https://a11y-pt.github.io/report_77/)
+- [report_077 - Subsídio Social de Mobilidade - ARTE](https://a11y-pt.github.io/report_077/)
 - [report_078 - PRR - Assembleia Municipal de Machico - Município de Machico](https://a11y-pt.github.io/report_078/)
 - [report_079 - PRR - Machico Ambiente - Município de Machico](https://a11y-pt.github.io/report_079/)
 - [report_080 - PRR - Machico Apoio - Município de Machico](https://a11y-pt.github.io/report_081/)
