@@ -77,12 +77,15 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_073 - Provedoria de Justiça](https://a11y-pt.github.io/report_73/)
 - [report_074 - PRR - Associação para a Inclusão do Cidadão com Necessidades Especiais - Associação INCLUIR](https://a11y-pt.github.io/report_74/)
 - [report_075 - Câmara Municipal da Praia da Vitória - Município Praia da Vitória](https://a11y-pt.github.io/report_75/)
-- [report_076 - Câmara Municipal de Machico - Município de Machico](https://a11y-pt.github.io/report_76/)
+- [report_076 - PRR - Câmara Municipal de Machico - Município de Machico](https://a11y-pt.github.io/report_76/)
 - [report_077 - Subsídio Social de Mobilidade - ARTE](https://a11y-pt.github.io/report_77/)
-
-
-
-
-
-
+- [report_078 - PRR - Assembleia Municipal de Machico - Município de Machico](https://a11y-pt.github.io/report_78/)
+- [report_079 - PRR - Machico Ambiente - Município de Machico](https://a11y-pt.github.io/report_79/)
+- [report_080 - PRR - Portal das Bolsas de Estudo de Machico - Município de Machico](https://a11y-pt.github.io/report_80/)
+- [report_081 - PRR - Machico Apoio - Município de Machico](https://a11y-pt.github.io/report_81/)
+- [report_082 - PRR - Informa Machico - Município de Machico](https://a11y-pt.github.io/report_82/)
+- [report_083 - PRR - Agenda Municipal de Machico - Município de Machico](https://a11y-pt.github.io/report_83/)
+- [report_084 - PRR - Abrigo Municipal de Machico - Município de Machico](https://a11y-pt.github.io/report_84/)
+- [report_085 - PRR - Portal do Associativismo de Machico - Município de Machico](https://a11y-pt.github.io/report_85/)
+- [report_086 - PRR - ECOS Machico - Município de Machico](https://a11y-pt.github.io/report_86/)
 
