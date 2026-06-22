@@ -47,7 +47,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_043 - PRR - Câmara Municipal de Ilhavo (sítio Web institucional)](https://a11y-pt.github.io/report_043/)
 - [report_044 - PRR - Câmara Municipal de Oliveira do Bairro (sítio Web institucional)](https://a11y-pt.github.io/report_044/)
 - [report_045 - PRR - Câmara Municipal de Vagos (sítio Web institucional)](https://a11y-pt.github.io/report_045/)
-- [report_046 - PRR - Câmara Municipal de Valongo (sítio Web institucional)](https://a11y-pt.github.io/report_046/)
+- [report_046 - COFAP - Instituto Nacional de Administração, I.P.](https://a11y-pt.github.io/report_046/)
 - [report_047 - Temporada Música em São Roque](https://a11y-pt.github.io/report_047/)
 - [report_048 - PRR - Museu da Chapelaria](https://a11y-pt.github.io/report_048/)
 - [report_049 - PRR - Museu do Calçado](https://a11y-pt.github.io/report_049/)
