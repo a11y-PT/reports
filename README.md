@@ -89,7 +89,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_085 - PRR - Portal do Associativismo de Machico - Município de Machico](https://a11y-pt.github.io/report_085/)
 - [report_086 - PRR - ECOS Machico - Município de Machico](https://a11y-pt.github.io/report_086/)
 - [report_087 - PRR - PRR - Município de Arganil - ADSI](https://a11y-pt.github.io/report_087/)
-- [report_088 - PRR - PRR - Município de Alvaiázere](https://a11y-pt.github.io/report_088/)
+- [report_088 - PRR - PRR - Município de Alvaiázere - Wiremaze](https://a11y-pt.github.io/report_088/)
 - [report_089 - PRR - CM Carregal do Sal](https://a11y-pt.github.io/report_089/)
 - [report_090 - PRR - ANI - Agência Nacional de Inovação](https://a11y-pt.github.io/report_090/)
 - [report_091 - PRR - SAS Santarém - XpertGo](https://a11y-pt.github.io/report_091/)
