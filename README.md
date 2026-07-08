@@ -114,3 +114,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_110 - PRR - Município de Odemira - Wiremaze](https://a11y-pt.github.io/report_110/)
 - [report_111 - PRR - Município de Vila do Conde - Wiremaze](https://a11y-pt.github.io/report_111/)
 - [report_112 - PRR - Município de Barrancos - Visual Forma](https://a11y-pt.github.io/report_112/)
+- [report_113 - PRR - Município de Sousel](https://a11y-pt.github.io/report_113/)
+- [report_114 - PRR - Município de Avis](https://a11y-pt.github.io/report_114/)
+- [report_115 - PRR - Município de Moimenta da Beira - Wiremaze](https://a11y-pt.github.io/report_115/)
+- [report_116 - PRR - Município da Moita - Wiremaze](https://a11y-pt.github.io/report_116/)
