@@ -140,6 +140,11 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_136 - PRR - Município de Armamar - Wiremaze](https://a11y-pt.github.io/report_136/)
 - [report_137 - PRR - Museu da Covilhã APP Android](https://a11y-pt.github.io/report_137/)
 - [report_138 - PRR - Municipio de São João da Madeira APP Android](https://a11y-pt.github.io/report_138/)
+- [report_139 - PRR - Museu da Covilhã App Android - Realiza Som](https://a11y-pt.github.io/report_139/)
+- [report_140 - PRR - Judeus de Coimbra App Android - Realiza Som](https://a11y-pt.github.io/report_140/)
+- [report_141 - PRR - Judeus de Coimbra App IOS - Realiza Som](https://a11y-pt.github.io/report_141/)
+- [report_142 - PRR - Museu do Douro App Android - Realiza Som](https://a11y-pt.github.io/report_142/)
+- [report_143 - PRR - Museu do Douro App IOS - Realiza Som](https://a11y-pt.github.io/report_143/)
 
 
 
