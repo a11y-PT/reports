@@ -153,3 +153,4 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_149 - PRR - Município de Castro Verde - Visual Forma](https://a11y-pt.github.io/report_149/)
 - [report_150- PRR - Município de Alvito - Visual Forma](https://a11y-pt.github.io/report_150/)
 - [report_151- PRR - Município de Alter do Chão - SmartGov Group](https://a11y-pt.github.io/report_151/)
+- [report_152- PRR - Inframoura - Visual Forma](https://a11y-pt.github.io/report_152/)
