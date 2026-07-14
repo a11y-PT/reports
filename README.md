@@ -146,6 +146,8 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_142 - PRR - Museu do Douro App Android - Realiza Som](https://a11y-pt.github.io/report_142/)
 - [report_143 - PRR - Museu do Douro App IOS - Realiza Som](https://a11y-pt.github.io/report_143/)
 - [report_144 - PRR - Infralobo - Empresa de infra-estruturas de Vale do Lobo - Visual Forma](https://a11y-pt.github.io/report_144/)
+- [report_145 - PRR - Município de Mondim de Basto - Wiremaze](https://a11y-pt.github.io/report_145/)
+- [report_146 - PRR - Portal de Serviços do Município da Maia - Wiremaze](https://a11y-pt.github.io/report_146/)
 
 
 
