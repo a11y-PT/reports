@@ -1,0 +1,6 @@
+## Lista de Issues do report_161 filtrados pelas labels constantes nas duas primeiras colunas
+
+| Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
+|:--|:--|:--|:--|:--|
+| label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_161/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_161/issues/2) |
