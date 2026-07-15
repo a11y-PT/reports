@@ -9,8 +9,8 @@
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho de 16px | OK | [#39](https://github.com/a11y-PT/report_044/issues/39) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo possui um tamanho de texto de no mínimo 12pt (16px) | OK | [#41](https://github.com/a11y-PT/report_044/issues/41) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações diferenciam-se do texto envolvente | OK | [#31](https://github.com/a11y-PT/report_044/issues/31) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | NOK | [#13](https://github.com/a11y-PT/report_044/issues/13) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#23](https://github.com/a11y-PT/report_044/issues/23) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | corrigido | [#13](https://github.com/a11y-PT/report_044/issues/13) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | melhoria | [#23](https://github.com/a11y-PT/report_044/issues/23) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Obrigatoriedade não declarada através de atributo 'required' | melhoria | [#122](https://github.com/a11y-PT/report_044/issues/122) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Uso incorreto do atributo 'required' | melhoria | [#123](https://github.com/a11y-PT/report_044/issues/123) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão visualmente identificados | NOK | [#124](https://github.com/a11y-PT/report_044/issues/124) |

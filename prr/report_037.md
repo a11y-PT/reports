@@ -12,8 +12,11 @@
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não são consistentes ao longo do website | melhoria | [#30](https://github.com/a11y-PT/report_037/issues/30) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não se diferenciam do texto envolvente | NOK | [#31](https://github.com/a11y-PT/report_037/issues/31) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não possuem contraste ao longo do website  | OK | [#32](https://github.com/a11y-PT/report_037/issues/32) |
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações diferenciam-se do texto envolvente | corrigido | [#111](https://github.com/a11y-PT/report_037/issues/111) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | NOK | [#13](https://github.com/a11y-PT/report_037/issues/13) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios identificados visualmente e estruturalmente | melhoria | [#23](https://github.com/a11y-PT/report_037/issues/23) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Atributo required aplicado incorretamente nos controlos do formulário | melhoria | [#112](https://github.com/a11y-PT/report_037/issues/112) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na Indicação de Campos Obrigatórios | melhoria | [#113](https://github.com/a11y-PT/report_037/issues/113) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | NOK | [#21](https://github.com/a11y-PT/report_037/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#18](https://github.com/a11y-PT/report_037/issues/18) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_037/issues/108) |

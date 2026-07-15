@@ -4,8 +4,8 @@
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação explicita entre campo de edição e etiqueta | NOK | [#107](https://github.com/a11y-PT/report_027/issues/107) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - As imagens-link têm um equivalente alternativo correto | OK | [#51](https://github.com/a11y-PT/report_027/issues/51) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal têm contraste suficiente no website | NOK | [#68](https://github.com/a11y-PT/report_027/issues/68) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - As subopções do menu possuem tamanho de texto abaixo do recomendado |  | [#2](https://github.com/a11y-PT/report_027/issues/2) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal têm contraste suficiente no website | corrigido | [#68](https://github.com/a11y-PT/report_027/issues/68) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - As subopções do menu possuem tamanho de texto abaixo do recomendado | corrigido | [#2](https://github.com/a11y-PT/report_027/issues/2) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho de 16px | OK | [#39](https://github.com/a11y-PT/report_027/issues/39) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações diferenciam-se do texto envolvente | OK | [#115](https://github.com/a11y-PT/report_027/issues/115) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | corrigido | [#13](https://github.com/a11y-PT/report_027/issues/13) |
