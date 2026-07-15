@@ -2,7 +2,7 @@
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiquetas corretamente associadas aos respetivos campos | OK | [#41](https://github.com/a11y-PT/report_099/issues/41) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta não programaticamente associada ao campo de data | NOK | [#41](https://github.com/a11y-PT/report_099/issues/41) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal tem contraste suficiente no website | OK | [#39](https://github.com/a11y-PT/report_099/issues/39) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#43](https://github.com/a11y-PT/report_099/issues/43) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#24](https://github.com/a11y-PT/report_099/issues/24) |
