@@ -12,7 +12,7 @@
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - É possível identificar os campos obrigatórios | OK | [#12](https://github.com/a11y-PT/report_048/issues/12) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | melhoria | [#15](https://github.com/a11y-PT/report_048/issues/15) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | melhoria | [#21](https://github.com/a11y-PT/report_048/issues/21) |
-| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Confirmação de sucesso invisível para tecnologias de apoio. | NOK | [#23](https://github.com/a11y-PT/report_048/issues/23) |
+| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Confirmação de sucesso invisível para tecnologias de apoio. | melhoria | [#23](https://github.com/a11y-PT/report_048/issues/23) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem formulários sem Mensagens de erro junto aos campos | melhoria | [#37](https://github.com/a11y-PT/report_048/issues/37) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem problemas de acessibilidade | melhoria | [#18](https://github.com/a11y-PT/report_048/issues/18) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#20](https://github.com/a11y-PT/report_048/issues/20) |
