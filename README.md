@@ -173,3 +173,5 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_169 - PRR - Serviços Municipalizados de Castelo Branco](https://a11y-pt.github.io/report_169/)
 - [report_170 - PRR - Município de Marvão - Mobinteg](https://a11y-pt.github.io/report_170/)
 - [report_171 - PRR - APEC - Associação Promotora do Ensino dos Cegos](https://a11y-pt.github.io/report_171/)
+- [report_172 - PRR - Recrutamento Online do Município de Valongo](https://a11y-pt.github.io/report_172/)
+- [report_173 - PRR - Diretório de Serviços do Município de Valongo](https://a11y-pt.github.io/report_173/)
