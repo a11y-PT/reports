@@ -6,7 +6,7 @@
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas em formulários PDF não discerníveis semanticamente | NOK | [#124](https://github.com/a11y-PT/report_039/issues/124) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | corrigido | [#51](https://github.com/a11y-PT/report_039/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | corrigido | [#68](https://github.com/a11y-PT/report_039/issues/68) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado |  | [#39](https://github.com/a11y-PT/report_039/issues/39) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | corrigido | [#39](https://github.com/a11y-PT/report_039/issues/39) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações diferenciam-se do texto envolvente | OK | [#123](https://github.com/a11y-PT/report_039/issues/123) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | corrigido | [#13](https://github.com/a11y-PT/report_039/issues/13) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Formulários PDF inacessíveis para leitores de ecrã | NOK | [#131](https://github.com/a11y-PT/report_039/issues/131) |
