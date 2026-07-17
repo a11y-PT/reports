@@ -1,4 +1,8 @@
-## Lista de Issues do report_060 filtrados pelas labels constantes nas duas primeiras colunas
+## Relatório de Auditoria Amostral (versão PRR)
+
+**Data:** 17/07/2026
+
+Lista de Issues do report_060 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
@@ -13,9 +17,9 @@
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações com indicação visual consistente | OK | [#22](https://github.com/a11y-PT/report_060/issues/22) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior ao mínimo recomendado (44×44px) | NOK | [#4](https://github.com/a11y-PT/report_060/issues/4) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | OK | [#61](https://github.com/a11y-PT/report_060/issues/61) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | NOK | [#62](https://github.com/a11y-PT/report_060/issues/62) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | corrigido | [#62](https://github.com/a11y-PT/report_060/issues/62) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#2](https://github.com/a11y-PT/report_060/issues/2) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens de erro apresentadas entre a etiqueta e o campo | NOK | [#72](https://github.com/a11y-PT/report_060/issues/72) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens não associadas programaticamente aos campos | NOK | [#73](https://github.com/a11y-PT/report_060/issues/73) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens de erro apresentadas entre a etiqueta e o campo | corrigido | [#72](https://github.com/a11y-PT/report_060/issues/72) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens não associadas programaticamente aos campos | corrigido | [#73](https://github.com/a11y-PT/report_060/issues/73) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_060/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#27](https://github.com/a11y-PT/report_060/issues/27) |

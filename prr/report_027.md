@@ -1,4 +1,8 @@
-## Lista de Issues do report_027 filtrados pelas labels constantes nas duas primeiras colunas
+## Relatório de Auditoria Amostral (versão PRR)
+
+**Data:** 17/07/2026
+
+Lista de Issues do report_027 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
@@ -14,3 +18,4 @@
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#18](https://github.com/a11y-PT/report_027/issues/18) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | NOK | [#108](https://github.com/a11y-PT/report_027/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | melhoria | [#110](https://github.com/a11y-PT/report_027/issues/110) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#121](https://github.com/a11y-PT/report_027/issues/121) |

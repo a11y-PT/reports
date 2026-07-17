@@ -1,4 +1,8 @@
-## Lista de Issues do report_005 filtrados pelas labels constantes nas duas primeiras colunas
+## Relatório de Auditoria Amostral (versão PRR)
+
+**Data:** 17/07/2026
+
+Lista de Issues do report_005 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
@@ -17,3 +21,4 @@
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - É necessário existir três locais de apresentação das mensagens de erro? | melhoria | [#17](https://github.com/a11y-PT/report_005/issues/17) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator identifica erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_005/issues/2) |
 | label:"av auto" |  | Avaliação automática - Access Monitor - Páginas que não ultrapassam o score de 9 pontos | OK | [#47](https://github.com/a11y-PT/report_005/issues/47) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#109](https://github.com/a11y-PT/report_005/issues/109) |

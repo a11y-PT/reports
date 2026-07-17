@@ -1,4 +1,8 @@
-## Lista de Issues do report_095 filtrados pelas labels constantes nas duas primeiras colunas
+## Relatório de Auditoria Amostral (versão PRR)
+
+**Data:** 17/07/2026
+
+Lista de Issues do report_095 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
@@ -13,3 +17,4 @@
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado de forma imediata | NOK | [#23](https://github.com/a11y-PT/report_095/issues/23) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro sem associação clara aos respetivos campos | NOK | [#45](https://github.com/a11y-PT/report_095/issues/45) |
 | label:"av auto" |  | Avaliação Automática - Extensão Accessmonitor | NOK | [#1](https://github.com/a11y-PT/report_095/issues/1) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O perfil de participantes da amostra é diferente do recomendado | melhoria | [#53](https://github.com/a11y-PT/report_095/issues/53) |

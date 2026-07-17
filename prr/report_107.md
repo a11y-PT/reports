@@ -1,4 +1,8 @@
-## Lista de Issues do report_107 filtrados pelas labels constantes nas duas primeiras colunas
+## Relatório de Auditoria Amostral (versão PRR)
+
+**Data:** 17/07/2026
+
+Lista de Issues do report_107 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
@@ -9,6 +13,7 @@
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O placeholder está a substituir a etiqueta | NOK | [#13](https://github.com/a11y-PT/report_107/issues/13) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não corresponde ao nome acessível | melhoria | [#14](https://github.com/a11y-PT/report_107/issues/14) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | NOK | [#6](https://github.com/a11y-PT/report_107/issues/6) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste insuficiente entre a cor do texto e a cor de fundo | NOK | [#16](https://github.com/a11y-PT/report_107/issues/16) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#15](https://github.com/a11y-PT/report_107/issues/15) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#7](https://github.com/a11y-PT/report_107/issues/7) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_107/issues/4) |

@@ -1,4 +1,8 @@
-## Lista de Issues do report_044 filtrados pelas labels constantes nas duas primeiras colunas
+## Relatório de Auditoria Amostral (versão PRR)
+
+**Data:** 17/07/2026
+
+Lista de Issues do report_044 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
@@ -19,3 +23,4 @@
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens de topo que não remetem o foco para os campos rspetivos | melhoria | [#125](https://github.com/a11y-PT/report_044/issues/125) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_044/issues/108) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor / Observatório (em avaliação) | OK | [#121](https://github.com/a11y-PT/report_044/issues/121) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#127](https://github.com/a11y-PT/report_044/issues/127) |

@@ -1,4 +1,8 @@
-## Lista de Issues do report_037 filtrados pelas labels constantes nas duas primeiras colunas
+## Relatório de Auditoria Amostral (versão PRR)
+
+**Data:** 17/07/2026
+
+Lista de Issues do report_037 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
@@ -17,7 +21,7 @@
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios identificados visualmente e estruturalmente | melhoria | [#23](https://github.com/a11y-PT/report_037/issues/23) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Atributo required aplicado incorretamente nos controlos do formulário | melhoria | [#112](https://github.com/a11y-PT/report_037/issues/112) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na Indicação de Campos Obrigatórios | melhoria | [#113](https://github.com/a11y-PT/report_037/issues/113) |
-| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | NOK | [#21](https://github.com/a11y-PT/report_037/issues/21) |
+| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | OK | [#21](https://github.com/a11y-PT/report_037/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#18](https://github.com/a11y-PT/report_037/issues/18) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_037/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | NOK | [#110](https://github.com/a11y-PT/report_037/issues/110) |

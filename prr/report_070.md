@@ -1,8 +1,12 @@
-## Lista de Issues do report_070 filtrados pelas labels constantes nas duas primeiras colunas
+## Relatório de Auditoria Amostral (versão PRR)
+
+**Data:** 17/07/2026
+
+Lista de Issues do report_070 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem textos de etiquetas não visíveis | NOK | [#12](https://github.com/a11y-PT/report_070/issues/12) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem textos de etiquetas não visíveis | corrigido | [#12](https://github.com/a11y-PT/report_070/issues/12) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiquetas posicionadas de forma incorreta | NOK | [#13](https://github.com/a11y-PT/report_070/issues/13) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Botões com texto alternativo em inglês | melhoria | [#20](https://github.com/a11y-PT/report_070/issues/20) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Botão com texto alternativo incorreto | NOK | [#67](https://github.com/a11y-PT/report_070/issues/67) |
