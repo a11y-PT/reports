@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 17/07/2026
+**Data:** 21/07/2026
 
 Lista de Issues do report_160 filtrados pelas labels constantes nas duas primeiras colunas.
 
