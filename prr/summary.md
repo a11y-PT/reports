@@ -130,3 +130,5 @@
 | [report_173](https://a11y-pt.github.io/reports/prr/report_173) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | Y | -- | 50.0% |
 | [report_174](https://a11y-pt.github.io/reports/prr/report_174) | N | -- | -- | -- | -- | -- | -- | -- | -- | -- | N | -- | 0.0% |
 | [report_175](https://a11y-pt.github.io/reports/prr/report_175) | N | N | N | -- | Y | -- | N | N | N | -- | Y | -- | 28.6% |
+| Nº Auditorias | 130 | 84 | 87 | 81 | 82 | 87 | 92 | 66 | 118 | 79 | 129 | 31 | 130 |
+| % Auditorias | 100.0% | 64.6% | 66.9% | 62.3% | 63.1% | 66.9% | 70.8% | 50.8% | 90.8% | 60.8% | 99.2% | 23.8% | 100.0% |
