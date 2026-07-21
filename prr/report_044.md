@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 17/07/2026
+**Data:** 21/07/2026
 
 Lista de Issues do report_044 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,7 +17,7 @@ Lista de Issues do report_044 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | melhoria | [#23](https://github.com/a11y-PT/report_044/issues/23) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Obrigatoriedade não declarada através de atributo 'required' | melhoria | [#122](https://github.com/a11y-PT/report_044/issues/122) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Uso incorreto do atributo 'required' | melhoria | [#123](https://github.com/a11y-PT/report_044/issues/123) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão visualmente identificados | NOK | [#124](https://github.com/a11y-PT/report_044/issues/124) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão visualmente identificados | corrigido | [#124](https://github.com/a11y-PT/report_044/issues/124) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | OK | [#21](https://github.com/a11y-PT/report_044/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existência de mensagens de erro não associadas programaticamente aos respetivos campos | OK | [#18](https://github.com/a11y-PT/report_044/issues/18) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens de topo que não remetem o foco para os campos rspetivos | melhoria | [#125](https://github.com/a11y-PT/report_044/issues/125) |

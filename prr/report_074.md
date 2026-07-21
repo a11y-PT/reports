@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 17/07/2026
+**Data:** 21/07/2026
 
 Lista de Issues do report_074 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,7 +8,7 @@ Lista de Issues do report_074 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O atributo placeholder está a substituir a etiqueta | corrigido | [#63](https://github.com/a11y-PT/report_074/issues/63) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com equivalente alternativo correto | OK | [#51](https://github.com/a11y-PT/report_074/issues/51) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não têm contraste suficiente | NOK | [#55](https://github.com/a11y-PT/report_074/issues/55) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não têm contraste suficiente | corrigido | [#55](https://github.com/a11y-PT/report_074/issues/55) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Informações primárias não possuem tamanho mínimo recomendado | NOK | [#22](https://github.com/a11y-PT/report_074/issues/22) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#32](https://github.com/a11y-PT/report_074/issues/32) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#7](https://github.com/a11y-PT/report_074/issues/7) |
