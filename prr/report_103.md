@@ -23,4 +23,5 @@ Lista de Issues do report_103 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campo marcado simultaneamente como obrigatório e opcional | NOK | [#24](https://github.com/a11y-PT/report_103/issues/24) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#4](https://github.com/a11y-PT/report_103/issues/4) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - URL could not be reached | melhoria | [#1](https://github.com/a11y-PT/report_103/issues/1) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#2](https://github.com/a11y-PT/report_103/issues/2) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#2](https://github.com/a11y-PT/report_103/issues/2) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#25](https://github.com/a11y-PT/report_103/issues/25) |

@@ -19,3 +19,4 @@ Lista de Issues do report_089 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas aos respetivos campos | NOK | [#13](https://github.com/a11y-PT/report_089/issues/13) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor / Observatório (em avaliação) | corrigido | [#1](https://github.com/a11y-PT/report_089/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Site não é avaliado | melhoria | [#2](https://github.com/a11y-PT/report_089/issues/2) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#15](https://github.com/a11y-PT/report_089/issues/15) |
