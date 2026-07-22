@@ -4,7 +4,7 @@
 | [report_007](https://a11y-pt.github.io/reports/prr/report_007) | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | -- | 100.0% |
 | [report_013](https://a11y-pt.github.io/reports/prr/report_013) | N | Y | N | Y | N | N | Y | Y | Y | Y | Y | -- | 70.0% |
 | [report_019](https://a11y-pt.github.io/reports/prr/report_019) | N | N | Y | Y | Y | Y | Y | Y | Y | Y | Y | -- | 90.0% |
-| [report_020](https://a11y-pt.github.io/reports/prr/report_020) | N | Y | Y | Y | N | Y | Y | N | Y | N | N | -- | 60.0% |
+| [report_020](https://a11y-pt.github.io/reports/prr/report_020) | N | Y | Y | Y | N | Y | Y | N | Y | Y | N | -- | 70.0% |
 | [report_021](https://a11y-pt.github.io/reports/prr/report_021) | N | N | N | Y | Y | Y | Y | N | Y | Y | N | -- | 60.0% |
 | [report_026](https://a11y-pt.github.io/reports/prr/report_026) | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | -- | 100.0% |
 | [report_027](https://a11y-pt.github.io/reports/prr/report_027) | N | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | Y | 90.9% |
@@ -12,7 +12,7 @@
 | [report_029](https://a11y-pt.github.io/reports/prr/report_029) | N | N | N | N | N | N | N | Y | N | Y | N | -- | 20.0% |
 | [report_030](https://a11y-pt.github.io/reports/prr/report_030) | N | N | N | N | N | N | N | Y | N | Y | N | -- | 20.0% |
 | [report_031](https://a11y-pt.github.io/reports/prr/report_031) | N | N | N | N | N | N | N | Y | N | Y | N | -- | 20.0% |
-| [report_032](https://a11y-pt.github.io/reports/prr/report_032) | N | Y | Y | Y | Y | Y | N | Y | N | N | Y | Y | 72.7% |
+| [report_032](https://a11y-pt.github.io/reports/prr/report_032) | N | Y | Y | Y | Y | Y | N | Y | N | Y | Y | Y | 81.8% |
 | [report_033](https://a11y-pt.github.io/reports/prr/report_033) | N | N | N | N | N | N | N | Y | N | Y | N | -- | 20.0% |
 | [report_034](https://a11y-pt.github.io/reports/prr/report_034) | N | N | N | Y | Y | Y | Y | N | Y | N | N | Y | 54.5% |
 | [report_035](https://a11y-pt.github.io/reports/prr/report_035) | N | N | N | N | N | N | N | Y | N | Y | N | -- | 20.0% |
@@ -23,7 +23,7 @@
 | [report_040](https://a11y-pt.github.io/reports/prr/report_040) | N | N | N | N | N | N | N | Y | N | Y | N | -- | 20.0% |
 | [report_041](https://a11y-pt.github.io/reports/prr/report_041) | N | N | N | Y | N | Y | Y | N | N | N | Y | Y | 45.5% |
 | [report_042](https://a11y-pt.github.io/reports/prr/report_042) | N | N | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | 90.9% |
-| [report_043](https://a11y-pt.github.io/reports/prr/report_043) | N | N | N | N | N | N | N | N | N | Y | N | -- | 10.0% |
+| [report_043](https://a11y-pt.github.io/reports/prr/report_043) | N | N | N | N | N | Y | N | N | N | Y | N | -- | 20.0% |
 | [report_044](https://a11y-pt.github.io/reports/prr/report_044) | N | N | N | Y | Y | Y | Y | Y | Y | Y | Y | Y | 81.8% |
 | [report_045](https://a11y-pt.github.io/reports/prr/report_045) | N | N | N | N | N | N | N | Y | N | Y | N | -- | 20.0% |
 | [report_048](https://a11y-pt.github.io/reports/prr/report_048) | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | -- | 100.0% |
@@ -34,7 +34,7 @@
 | [report_060](https://a11y-pt.github.io/reports/prr/report_060) | N | N | N | N | N | Y | N | Y | Y | Y | N | -- | 40.0% |
 | [report_061](https://a11y-pt.github.io/reports/prr/report_061) | N | Y | N | N | N | Y | N | Y | Y | Y | N | -- | 50.0% |
 | [report_062](https://a11y-pt.github.io/reports/prr/report_062) | N | Y | Y | N | N | Y | N | N | Y | Y | N | -- | 50.0% |
-| [report_063](https://a11y-pt.github.io/reports/prr/report_063) | N | Y | N | N | N | Y | N | N | N | Y | N | -- | 30.0% |
+| [report_063](https://a11y-pt.github.io/reports/prr/report_063) | N | Y | N | N | N | Y | N | Y | N | Y | N | -- | 40.0% |
 | [report_064](https://a11y-pt.github.io/reports/prr/report_064) | N | Y | N | N | N | Y | N | N | Y | Y | N | -- | 40.0% |
 | [report_066](https://a11y-pt.github.io/reports/prr/report_066) | N | Y | N | Y | N | N | N | N | N | N | N | -- | 20.0% |
 | [report_067](https://a11y-pt.github.io/reports/prr/report_067) | N | N | N | N | N | N | N | Y | N | Y | N | -- | 20.0% |
@@ -66,12 +66,12 @@
 | [report_100](https://a11y-pt.github.io/reports/prr/report_100) | N | N | N | Y | N | N | N | N | N | N | Y | Y | 27.3% |
 | [report_101](https://a11y-pt.github.io/reports/prr/report_101) | N | N | N | Y | N | N | N | N | N | N | Y | Y | 27.3% |
 | [report_102](https://a11y-pt.github.io/reports/prr/report_102) | N | N | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 0.0% |
-| [report_103](https://a11y-pt.github.io/reports/prr/report_103) | N | N | N | Y | N | N | N | N | N | -- | Y | Y | 30.0% |
+| [report_103](https://a11y-pt.github.io/reports/prr/report_103) | N | N | N | Y | N | N | N | N | N | Y | Y | Y | 36.4% |
 | [report_104](https://a11y-pt.github.io/reports/prr/report_104) | N | N | N | Y | N | N | N | N | N | N | Y | Y | 27.3% |
-| [report_105](https://a11y-pt.github.io/reports/prr/report_105) | N | N | N | Y | N | N | N | -- | N | N | Y | Y | 30.0% |
-| [report_106](https://a11y-pt.github.io/reports/prr/report_106) | N | N | N | Y | N | N | N | -- | N | N | Y | Y | 30.0% |
-| [report_107](https://a11y-pt.github.io/reports/prr/report_107) | N | N | N | Y | N | Y | N | -- | N | N | N | Y | 30.0% |
-| [report_108](https://a11y-pt.github.io/reports/prr/report_108) | N | N | N | N | N | N | N | -- | Y | N | N | Y | 20.0% |
+| [report_105](https://a11y-pt.github.io/reports/prr/report_105) | N | N | N | Y | N | N | N | N | N | N | Y | Y | 27.3% |
+| [report_106](https://a11y-pt.github.io/reports/prr/report_106) | N | N | N | Y | N | N | N | Y | N | N | Y | Y | 36.4% |
+| [report_107](https://a11y-pt.github.io/reports/prr/report_107) | N | N | N | Y | N | Y | N | Y | N | N | N | Y | 36.4% |
+| [report_108](https://a11y-pt.github.io/reports/prr/report_108) | N | N | N | N | N | N | N | N | Y | N | N | Y | 18.2% |
 | [report_109](https://a11y-pt.github.io/reports/prr/report_109) | N | N | N | Y | N | N | N | -- | N | N | N | Y | 20.0% |
 | [report_110](https://a11y-pt.github.io/reports/prr/report_110) | N | N | N | N | N | N | N | -- | N | N | Y | Y | 20.0% |
 | [report_111](https://a11y-pt.github.io/reports/prr/report_111) | N | N | N | Y | N | N | Y | -- | N | Y | Y | Y | 50.0% |
@@ -82,24 +82,24 @@
 | [report_116](https://a11y-pt.github.io/reports/prr/report_116) | N | N | N | N | N | N | N | -- | N | Y | Y | -- | 22.2% |
 | [report_117](https://a11y-pt.github.io/reports/prr/report_117) | N | -- | N | N | -- | N | N | -- | N | Y | Y | -- | 28.6% |
 | [report_118](https://a11y-pt.github.io/reports/prr/report_118) | N | -- | N | -- | -- | N | N | -- | N | -- | N | -- | 0.0% |
-| [report_119](https://a11y-pt.github.io/reports/prr/report_119) | N | -- | -- | -- | -- | N | N | -- | N | -- | Y | -- | 25.0% |
-| [report_120](https://a11y-pt.github.io/reports/prr/report_120) | N | -- | -- | -- | -- | -- | Y | -- | N | -- | Y | -- | 66.7% |
-| [report_121](https://a11y-pt.github.io/reports/prr/report_121) | N | -- | -- | -- | -- | -- | -- | -- | -- | -- | N | -- | 0.0% |
+| [report_119](https://a11y-pt.github.io/reports/prr/report_119) | N | N | N | -- | -- | N | N | -- | N | -- | Y | -- | 16.7% |
+| [report_120](https://a11y-pt.github.io/reports/prr/report_120) | N | N | N | -- | -- | N | Y | -- | N | -- | Y | -- | 33.3% |
+| [report_121](https://a11y-pt.github.io/reports/prr/report_121) | N | N | N | -- | -- | N | -- | -- | -- | -- | N | -- | 0.0% |
 | [report_122](https://a11y-pt.github.io/reports/prr/report_122) | N | N | N | N | N | N | N | -- | -- | -- | N | -- | 0.0% |
-| [report_123](https://a11y-pt.github.io/reports/prr/report_123) | N | N | N | -- | N | N | N | -- | -- | -- | N | -- | 0.0% |
+| [report_123](https://a11y-pt.github.io/reports/prr/report_123) | N | N | N | N | N | N | N | -- | -- | -- | N | -- | 0.0% |
 | [report_124](https://a11y-pt.github.io/reports/prr/report_124) | N | N | N | -- | -- | N | N | -- | N | Y | N | -- | 14.3% |
-| [report_125](https://a11y-pt.github.io/reports/prr/report_125) | N | -- | N | -- | -- | N | N | -- | -- | -- | N | -- | 0.0% |
-| [report_126](https://a11y-pt.github.io/reports/prr/report_126) | N | -- | N | -- | -- | N | N | -- | N | Y | N | -- | 16.7% |
-| [report_127](https://a11y-pt.github.io/reports/prr/report_127) | N | -- | -- | -- | -- | -- | N | -- | Y | -- | Y | -- | 66.7% |
+| [report_125](https://a11y-pt.github.io/reports/prr/report_125) | N | N | N | -- | -- | N | N | -- | -- | -- | N | -- | 0.0% |
+| [report_126](https://a11y-pt.github.io/reports/prr/report_126) | N | N | N | -- | -- | N | N | -- | N | Y | N | -- | 14.3% |
+| [report_127](https://a11y-pt.github.io/reports/prr/report_127) | N | -- | N | -- | -- | N | N | -- | Y | -- | Y | -- | 40.0% |
 | [report_128](https://a11y-pt.github.io/reports/prr/report_128) | N | -- | -- | -- | -- | -- | N | -- | N | -- | N | -- | 0.0% |
 | [report_129](https://a11y-pt.github.io/reports/prr/report_129) | N | -- | -- | -- | -- | -- | N | -- | N | -- | Y | -- | 33.3% |
-| [report_130](https://a11y-pt.github.io/reports/prr/report_130) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | Y | -- | 50.0% |
-| [report_131](https://a11y-pt.github.io/reports/prr/report_131) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
-| [report_132](https://a11y-pt.github.io/reports/prr/report_132) | Y | -- | -- | -- | -- | -- | -- | -- | -- | -- | Y | -- | 100.0% |
-| [report_133](https://a11y-pt.github.io/reports/prr/report_133) | Y | -- | -- | -- | -- | -- | -- | -- | Y | -- | Y | -- | 100.0% |
-| [report_134](https://a11y-pt.github.io/reports/prr/report_134) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
-| [report_135](https://a11y-pt.github.io/reports/prr/report_135) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
-| [report_136](https://a11y-pt.github.io/reports/prr/report_136) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | Y | -- | 50.0% |
+| [report_130](https://a11y-pt.github.io/reports/prr/report_130) | N | -- | -- | -- | -- | -- | Y | -- | N | -- | Y | -- | 66.7% |
+| [report_131](https://a11y-pt.github.io/reports/prr/report_131) | N | -- | -- | -- | -- | -- | N | -- | N | -- | N | -- | 0.0% |
+| [report_132](https://a11y-pt.github.io/reports/prr/report_132) | N | -- | -- | -- | -- | -- | N | -- | -- | -- | Y | -- | 50.0% |
+| [report_133](https://a11y-pt.github.io/reports/prr/report_133) | N | -- | -- | -- | -- | -- | N | -- | Y | -- | Y | -- | 66.7% |
+| [report_134](https://a11y-pt.github.io/reports/prr/report_134) | N | -- | -- | -- | -- | -- | N | -- | N | -- | N | -- | 0.0% |
+| [report_135](https://a11y-pt.github.io/reports/prr/report_135) | N | -- | -- | -- | -- | -- | N | -- | N | -- | N | -- | 0.0% |
+| [report_136](https://a11y-pt.github.io/reports/prr/report_136) | N | -- | -- | -- | -- | -- | N | -- | N | -- | Y | -- | 33.3% |
 | [report_144](https://a11y-pt.github.io/reports/prr/report_144) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | Y | -- | 50.0% |
 | [report_145](https://a11y-pt.github.io/reports/prr/report_145) | N | -- | -- | -- | -- | -- | -- | -- | Y | -- | N | -- | 50.0% |
 | [report_146](https://a11y-pt.github.io/reports/prr/report_146) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
@@ -112,6 +112,7 @@
 | [report_153](https://a11y-pt.github.io/reports/prr/report_153) | N | -- | -- | -- | -- | -- | -- | -- | -- | -- | N | -- | 0.0% |
 | [report_154](https://a11y-pt.github.io/reports/prr/report_154) | Y | -- | -- | -- | -- | -- | -- | -- | Y | -- | Y | -- | 100.0% |
 | [report_155](https://a11y-pt.github.io/reports/prr/report_155) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
+| [report_156](https://a11y-pt.github.io/reports/prr/report_156) | N | -- | -- | -- | -- | -- | -- | -- | Y | -- | N | -- | 50.0% |
 | [report_157](https://a11y-pt.github.io/reports/prr/report_157) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
 | [report_158](https://a11y-pt.github.io/reports/prr/report_158) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
 | [report_159](https://a11y-pt.github.io/reports/prr/report_159) | N | -- | -- | -- | -- | -- | -- | -- | -- | -- | N | -- | 0.0% |
@@ -121,7 +122,7 @@
 | [report_164](https://a11y-pt.github.io/reports/prr/report_164) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | Y | -- | 50.0% |
 | [report_165](https://a11y-pt.github.io/reports/prr/report_165) | Y | -- | -- | -- | -- | -- | -- | -- | Y | -- | Y | -- | 100.0% |
 | [report_166](https://a11y-pt.github.io/reports/prr/report_166) | N | -- | -- | -- | -- | -- | -- | -- | -- | -- | N | -- | 0.0% |
-| [report_167](https://a11y-pt.github.io/reports/prr/report_167) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | Y | -- | 50.0% |
+| [report_167](https://a11y-pt.github.io/reports/prr/report_167) | Y | -- | -- | -- | -- | -- | -- | -- | Y | -- | Y | -- | 100.0% |
 | [report_168](https://a11y-pt.github.io/reports/prr/report_168) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | Y | -- | 50.0% |
 | [report_169](https://a11y-pt.github.io/reports/prr/report_169) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
 | [report_170](https://a11y-pt.github.io/reports/prr/report_170) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | N | -- | 0.0% |
@@ -129,6 +130,6 @@
 | [report_172](https://a11y-pt.github.io/reports/prr/report_172) | Y | -- | -- | -- | -- | -- | -- | -- | Y | -- | Y | -- | 100.0% |
 | [report_173](https://a11y-pt.github.io/reports/prr/report_173) | N | -- | -- | -- | -- | -- | -- | -- | N | -- | Y | -- | 50.0% |
 | [report_174](https://a11y-pt.github.io/reports/prr/report_174) | N | -- | -- | -- | -- | -- | -- | -- | -- | -- | N | -- | 0.0% |
-| [report_175](https://a11y-pt.github.io/reports/prr/report_175) | N | N | N | -- | Y | -- | N | N | N | -- | Y | -- | 28.6% |
-| Nº Auditorias | 130 | 84 | 87 | 81 | 82 | 87 | 92 | 66 | 118 | 79 | 129 | 31 | 130 |
-| % Auditorias | 100.0% | 64.6% | 66.9% | 62.3% | 63.1% | 66.9% | 70.8% | 50.8% | 90.8% | 60.8% | 99.2% | 23.8% | 100.0% |
+| [report_175](https://a11y-pt.github.io/reports/prr/report_175) | N | N | N | Y | Y | Y | N | N | Y | Y | Y | -- | 60.0% |
+| Nº Auditorias | 131 | 89 | 91 | 83 | 82 | 91 | 99 | 70 | 119 | 81 | 130 | 31 | 131 |
+| % Auditorias | 100.0% | 67.9% | 69.5% | 63.4% | 62.6% | 69.5% | 75.6% | 53.4% | 90.8% | 61.8% | 99.2% | 23.7% | 100.0% |
