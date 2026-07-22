@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 21/07/2026
+**Data:** 23/07/2026
 
 Lista de Issues do report_032 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -16,7 +16,7 @@ Lista de Issues do report_032 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | NOK | [#21](https://github.com/a11y-PT/report_032/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | melhoria | [#18](https://github.com/a11y-PT/report_032/issues/18) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existência de mensagens de erro incorretamente formatadas | OK | [#115](https://github.com/a11y-PT/report_032/issues/115) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existência de mensagens de erro não associadas programaticamente aos respetivos campos | NOK | [#116](https://github.com/a11y-PT/report_032/issues/116) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existência de mensagens de erro não associadas programaticamente aos respetivos campos | corrigido | [#116](https://github.com/a11y-PT/report_032/issues/116) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_032/issues/108) |
 | label:"av auto" |  | Avaliação automática - Todas as páginas possuem valor acima de 9 | OK | [#110](https://github.com/a11y-PT/report_032/issues/110) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#119](https://github.com/a11y-PT/report_032/issues/119) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 21/07/2026
+**Data:** 23/07/2026
 
 Lista de Issues do report_020 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,6 +17,6 @@ Lista de Issues do report_020 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#52](https://github.com/a11y-PT/report_020/issues/52) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | corrigido | [#53](https://github.com/a11y-PT/report_020/issues/53) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Confirmação de sucesso invisível para tecnologias de apoio. | melhoria | [#16](https://github.com/a11y-PT/report_020/issues/16) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem formulários sem Mensagens de erro junto aos campos | NOK | [#75](https://github.com/a11y-PT/report_020/issues/75) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem formulários sem Mensagens de erro junto aos campos | corrigido | [#75](https://github.com/a11y-PT/report_020/issues/75) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#74](https://github.com/a11y-PT/report_020/issues/74) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#80](https://github.com/a11y-PT/report_020/issues/80) |
