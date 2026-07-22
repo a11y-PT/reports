@@ -177,4 +177,5 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_173 - PRR - Diretório de Serviços do Município de Valongo](https://a11y-pt.github.io/report_173/)
 - [report_174 - PRR - Portal Institucional da Câmara Municipal de Tábua](https://a11y-pt.github.io/report_174/)
 - [report_175 - PRR - Município do Bombarral - Visualforma](https://a11y-pt.github.io/report_175/)
-
+- [report_176 - PRR - Bem Mer Ker App Android](https://a11y-pt.github.io/report_176/)
+- [report_177 - PRR - Bem Mer Ker App iOS](https://a11y-pt.github.io/report_177/)
