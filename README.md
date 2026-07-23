@@ -158,7 +158,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_154- PRR - Município de Castelo de Vide - Visual Forma](https://a11y-pt.github.io/report_154/)
 - [report_155- PRR - Município de Gavião - Skilltech](https://a11y-pt.github.io/report_155/)
 - [report_156- PRR - Bem-Me-Ker](https://a11y-pt.github.io/report_156/)
-- [report_157- PRR - Município de Cuba - Visual Forma](https://a11y-pt.github.io/report_157/)
+- [report_157- PRR - Município de Cuba](https://a11y-pt.github.io/report_157/)
 - [report_158- PRR - Portal do IDN - Instituto Defesa Nacional - Mobinteg](https://a11y-pt.github.io/report_158/)
 - [report_159- PRR - Portal Autárquico de Mêda - ADSI](https://a11y-pt.github.io/report_159/)
 - [report_160- PRR - Serviços online do Município de Mondim de Basto - Wiremaze](https://a11y-pt.github.io/report_160/)
