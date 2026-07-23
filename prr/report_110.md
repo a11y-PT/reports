@@ -15,6 +15,8 @@ Lista de Issues do report_110 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#9](https://github.com/a11y-PT/report_110/issues/9) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#8](https://github.com/a11y-PT/report_110/issues/8) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_110/issues/4) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar os campos obrigatórios em formulários PDF | NOK | [#15](https://github.com/a11y-PT/report_110/issues/15) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#16](https://github.com/a11y-PT/report_110/issues/16) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#3](https://github.com/a11y-PT/report_110/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas aos respetivos campos | NOK | [#5](https://github.com/a11y-PT/report_110/issues/5) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_110/issues/1) |

@@ -13,6 +13,7 @@ Lista de Issues do report_126 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O campo em foco deve ter uma indicação visual clara | melhoria | [#13](https://github.com/a11y-PT/report_126/issues/13) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Uso desnecessário do fieldset | melhoria | [#14](https://github.com/a11y-PT/report_126/issues/14) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | NOK | [#5](https://github.com/a11y-PT/report_126/issues/5) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste insuficiente entre a cor do texto e a cor de fundo | NOK | [#15](https://github.com/a11y-PT/report_126/issues/15) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#6](https://github.com/a11y-PT/report_126/issues/6) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Texto e hiperligações apresentam estilos visuais inconsistentes | melhoria | [#7](https://github.com/a11y-PT/report_126/issues/7) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_126/issues/4) |

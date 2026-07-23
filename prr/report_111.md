@@ -15,6 +15,7 @@ Lista de Issues do report_111 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#6](https://github.com/a11y-PT/report_111/issues/6) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não se diferenciam do texto envolvente | NOK | [#7](https://github.com/a11y-PT/report_111/issues/7) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px CSS (44 pontos) (vertical e horizontal) | OK | [#3](https://github.com/a11y-PT/report_111/issues/3) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#16](https://github.com/a11y-PT/report_111/issues/16) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#4](https://github.com/a11y-PT/report_111/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#14](https://github.com/a11y-PT/report_111/issues/14) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_111/issues/1) |

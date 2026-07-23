@@ -7,7 +7,7 @@ Lista de Issues do report_067 filtrados pelas labels constantes nas duas primeir
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - Existem campos de formulário sem etiquetas associadas | NOK | [#45](https://github.com/a11y-PT/report_067/issues/45) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagem-link com nome acessível definido incorretamente através de title | NOK | [#4](https://github.com/a11y-PT/report_067/issues/4) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagem-link com nome acessível definido incorretamente através de title | corrigido | [#4](https://github.com/a11y-PT/report_067/issues/4) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagens link com texto alternativo incorreto | NOK | [#10](https://github.com/a11y-PT/report_067/issues/10) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web - Texto normal não tem contraste suficiente | NOK | [#80](https://github.com/a11y-PT/report_067/issues/80) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#65](https://github.com/a11y-PT/report_067/issues/65) |

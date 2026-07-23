@@ -15,6 +15,7 @@ Lista de Issues do report_112 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#7](https://github.com/a11y-PT/report_112/issues/7) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#6](https://github.com/a11y-PT/report_112/issues/6) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#3](https://github.com/a11y-PT/report_112/issues/3) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Identificação correta dos campos obrigatórios | OK | [#14](https://github.com/a11y-PT/report_112/issues/14) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | melhoria | [#4](https://github.com/a11y-PT/report_112/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#13](https://github.com/a11y-PT/report_112/issues/13) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_112/issues/1) |

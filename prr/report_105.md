@@ -17,7 +17,7 @@ Lista de Issues do report_105 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#8](https://github.com/a11y-PT/report_105/issues/8) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_105/issues/4) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#17](https://github.com/a11y-PT/report_105/issues/17) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Formulário PDF não disponibiliza campos de preenchimento interativos | NOK | [#18](https://github.com/a11y-PT/report_105/issues/18) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Formulário PDF não disponibiliza campos de preenchimento interativos | melhoria | [#18](https://github.com/a11y-PT/report_105/issues/18) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#3](https://github.com/a11y-PT/report_105/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas aos respetivos campos | NOK | [#7](https://github.com/a11y-PT/report_105/issues/7) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_105/issues/1) |

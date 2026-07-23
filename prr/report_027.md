@@ -16,6 +16,6 @@ Lista de Issues do report_027 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Atributo required aplicado incorretamente nos controlos do formulário | melhoria | [#23](https://github.com/a11y-PT/report_027/issues/23) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | melhoria | [#21](https://github.com/a11y-PT/report_027/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#18](https://github.com/a11y-PT/report_027/issues/18) |
-| label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | NOK | [#108](https://github.com/a11y-PT/report_027/issues/108) |
+| label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_027/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | melhoria | [#110](https://github.com/a11y-PT/report_027/issues/110) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#121](https://github.com/a11y-PT/report_027/issues/121) |
