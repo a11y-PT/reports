@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 23/07/2026
+**Data:** 24/07/2026
 
 Lista de Issues do report_126 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,6 +17,8 @@ Lista de Issues do report_126 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#6](https://github.com/a11y-PT/report_126/issues/6) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Texto e hiperligações apresentam estilos visuais inconsistentes | melhoria | [#7](https://github.com/a11y-PT/report_126/issues/7) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_126/issues/4) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar os campos obrigatórios em formulários PDF | NOK | [#16](https://github.com/a11y-PT/report_126/issues/16) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#17](https://github.com/a11y-PT/report_126/issues/17) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#3](https://github.com/a11y-PT/report_126/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#8](https://github.com/a11y-PT/report_126/issues/8) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Apresenta erros de Acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_126/issues/1) |
