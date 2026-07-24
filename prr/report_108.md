@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 23/07/2026
+**Data:** 24/07/2026
 
 Lista de Issues do report_108 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -16,7 +16,7 @@ Lista de Issues do report_108 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_108/issues/4) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios não identificados programaticamente | melhoria | [#15](https://github.com/a11y-PT/report_108/issues/15) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#16](https://github.com/a11y-PT/report_108/issues/16) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Formulário PDF não disponibiliza campos de preenchimento interativos | melhoria | [#17](https://github.com/a11y-PT/report_108/issues/17) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Formulário PDF não disponibiliza campos de preenchimento interativos | NOK | [#17](https://github.com/a11y-PT/report_108/issues/17) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado de forma imediata | melhoria | [#3](https://github.com/a11y-PT/report_108/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas aos respetivos campos | NOK | [#5](https://github.com/a11y-PT/report_108/issues/5) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_108/issues/1) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 23/07/2026
+**Data:** 24/07/2026
 
 Lista de Issues do report_035 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,7 +8,7 @@ Lista de Issues do report_035 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação explicita entre campo de edição e etiqueta | NOK | [#107](https://github.com/a11y-PT/report_035/issues/107) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_035/issues/51) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | NOK | [#68](https://github.com/a11y-PT/report_035/issues/68) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | corrigido | [#68](https://github.com/a11y-PT/report_035/issues/68) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo | melhoria | [#2](https://github.com/a11y-PT/report_035/issues/2) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | NOK | [#39](https://github.com/a11y-PT/report_035/issues/39) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - A informação sobre contactos no rodapé possui tamanho inferior a 16px | NOK | [#40](https://github.com/a11y-PT/report_035/issues/40) |
