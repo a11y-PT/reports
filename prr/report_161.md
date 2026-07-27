@@ -1,11 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 24/07/2026
+**Data:** 27/07/2026
 
 Lista de Issues do report_161 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações com apresentação visual inconsistente | melhoria | [#5](https://github.com/a11y-PT/report_161/issues/5) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_161/issues/4) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Mensagem de sucesso corretamente apresentada e anunciada após submissão | OK | [#3](https://github.com/a11y-PT/report_161/issues/3) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_161/issues/1) |
