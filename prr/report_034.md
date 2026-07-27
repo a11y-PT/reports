@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 24/07/2026
+**Data:** 27/07/2026
 
 Lista de Issues do report_034 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação explicita entre campo de edição e etiqueta | NOK | [#107](https://github.com/a11y-PT/report_034/issues/107) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação explicita entre campo de edição e etiqueta | corrigido | [#107](https://github.com/a11y-PT/report_034/issues/107) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#132](https://github.com/a11y-PT/report_034/issues/132) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_034/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | corrigido | [#68](https://github.com/a11y-PT/report_034/issues/68) |

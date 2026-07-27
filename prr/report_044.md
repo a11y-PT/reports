@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 24/07/2026
+**Data:** 27/07/2026
 
 Lista de Issues do report_044 filtrados pelas labels constantes nas duas primeiras colunas.
 

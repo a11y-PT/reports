@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 24/07/2026
+**Data:** 27/07/2026
 
 Lista de Issues do report_045 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -10,10 +10,10 @@ Lista de Issues do report_045 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#111](https://github.com/a11y-PT/report_045/issues/111) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_045/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | NOK | [#68](https://github.com/a11y-PT/report_045/issues/68) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo | melhoria | [#2](https://github.com/a11y-PT/report_045/issues/2) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | NOK | [#39](https://github.com/a11y-PT/report_045/issues/39) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - A informação sobre contactos no rodapé possui tamanho inferior a 16px | NOK | [#40](https://github.com/a11y-PT/report_045/issues/40) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo tem um tamanho de texto inferior a 12pt (16px) | NOK | [#41](https://github.com/a11y-PT/report_045/issues/41) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O menu principal possui tamanho de texto abaixo do recomendado | OK | [#2](https://github.com/a11y-PT/report_045/issues/2) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | corrigido | [#39](https://github.com/a11y-PT/report_045/issues/39) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - A informação sobre contactos no rodapé possui tamanho inferior a 16px | corrigido | [#40](https://github.com/a11y-PT/report_045/issues/40) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo tem um tamanho de texto inferior a 12pt (16px) | corrigido | [#41](https://github.com/a11y-PT/report_045/issues/41) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações diferenciam-se do texto envolvente | OK | [#113](https://github.com/a11y-PT/report_045/issues/113) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | NOK | [#13](https://github.com/a11y-PT/report_045/issues/13) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#114](https://github.com/a11y-PT/report_045/issues/114) |
