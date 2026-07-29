@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 28/07/2026
+**Data:** 29/07/2026
 
 Lista de Issues do report_063 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -10,9 +10,9 @@ Lista de Issues do report_063 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O atributo placeholder está a substituir a etiqueta | corrigido | [#46](https://github.com/a11y-PT/report_063/issues/46) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem campos sem etiquetas associadas | corrigido | [#47](https://github.com/a11y-PT/report_063/issues/47) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagens link com texto alternativo incorreto | NOK | [#6](https://github.com/a11y-PT/report_063/issues/6) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web - Texto normal não tem contraste suficiente | NOK | [#69](https://github.com/a11y-PT/report_063/issues/69) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#56](https://github.com/a11y-PT/report_063/issues/56) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | NOK | [#58](https://github.com/a11y-PT/report_063/issues/58) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web - Texto normal não tem contraste suficiente | corrigido | [#69](https://github.com/a11y-PT/report_063/issues/69) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#56](https://github.com/a11y-PT/report_063/issues/56) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#58](https://github.com/a11y-PT/report_063/issues/58) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações têem identificação complementar | OK | [#25](https://github.com/a11y-PT/report_063/issues/25) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | NOK | [#11](https://github.com/a11y-PT/report_063/issues/11) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | corrigido | [#66](https://github.com/a11y-PT/report_063/issues/66) |

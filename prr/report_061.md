@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 28/07/2026
+**Data:** 29/07/2026
 
 Lista de Issues do report_061 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,9 +8,9 @@ Lista de Issues do report_061 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web (Formulários, relação campo e etiqueta) | corrigido | [#26](https://github.com/a11y-PT/report_061/issues/26) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web (Imagens-link, propósito equivalente em texto) | NOK | [#32](https://github.com/a11y-PT/report_061/issues/32) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web (Contraste, texto normal) | NOK | [#61](https://github.com/a11y-PT/report_061/issues/61) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo (Usabilidade, tamanho e tipo de letra) | NOK | [#33](https://github.com/a11y-PT/report_061/issues/33) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo (Usabilidade, tamanho e tipo de letra) | NOK | [#34](https://github.com/a11y-PT/report_061/issues/34) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web (Contraste, texto normal) | corrigido | [#61](https://github.com/a11y-PT/report_061/issues/61) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo (Usabilidade, tamanho e tipo de letra) | corrigido | [#33](https://github.com/a11y-PT/report_061/issues/33) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo (Usabilidade, tamanho e tipo de letra) | corrigido | [#34](https://github.com/a11y-PT/report_061/issues/34) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo (Estrutura da Navegação) | OK | [#16](https://github.com/a11y-PT/report_061/issues/16) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo  (Elementos Interativos) | NOK | [#8](https://github.com/a11y-PT/report_061/issues/8) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação (Campos) | corrigido | [#49](https://github.com/a11y-PT/report_061/issues/49) |

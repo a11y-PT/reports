@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 28/07/2026
+**Data:** 29/07/2026
 
 Lista de Issues do report_036 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -9,16 +9,14 @@ Lista de Issues do report_036 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação explicita entre campo de edição e etiqueta | NOK | [#107](https://github.com/a11y-PT/report_036/issues/107) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_036/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | NOK | [#68](https://github.com/a11y-PT/report_036/issues/68) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo | melhoria | [#2](https://github.com/a11y-PT/report_036/issues/2) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | NOK | [#39](https://github.com/a11y-PT/report_036/issues/39) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O menu principal possui tamanho de fonte abaixo do recomendado | OK | [#2](https://github.com/a11y-PT/report_036/issues/2) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | corrigido | [#39](https://github.com/a11y-PT/report_036/issues/39) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - A informação sobre contactos no rodapé possui tamanho inferior a 16px | NOK | [#40](https://github.com/a11y-PT/report_036/issues/40) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo tem um tamanho de texto inferior a 12pt (16px) | NOK | [#41](https://github.com/a11y-PT/report_036/issues/41) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não são consistentes ao longo do website | melhoria | [#30](https://github.com/a11y-PT/report_036/issues/30) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não se diferenciam do texto envolvente | NOK | [#31](https://github.com/a11y-PT/report_036/issues/31) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não possuem contraste ao longo do website  | OK | [#32](https://github.com/a11y-PT/report_036/issues/32) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações de texto não se diferenciam apenas com base na cor | OK | [#113](https://github.com/a11y-PT/report_036/issues/113) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | NOK | [#13](https://github.com/a11y-PT/report_036/issues/13) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios identificados visualmente e estruturalmente | melhoria | [#23](https://github.com/a11y-PT/report_036/issues/23) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#114](https://github.com/a11y-PT/report_036/issues/114) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#115](https://github.com/a11y-PT/report_036/issues/115) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | OK | [#21](https://github.com/a11y-PT/report_036/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Campos sem mensagens de erro na sua vizinhança | NOK | [#18](https://github.com/a11y-PT/report_036/issues/18) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro programaticamente associadas aos campos de forma incorreta | NOK | [#111](https://github.com/a11y-PT/report_036/issues/111) |

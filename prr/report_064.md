@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 28/07/2026
+**Data:** 29/07/2026
 
 Lista de Issues do report_064 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,9 +8,9 @@ Lista de Issues do report_064 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - Associação correta entre etiquetas e campos de formulário | OK | [#34](https://github.com/a11y-PT/report_064/issues/34) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagens link com texto alternativo incorreto | NOK | [#24](https://github.com/a11y-PT/report_064/issues/24) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web - Texto normal não tem contraste suficiente | NOK | [#69](https://github.com/a11y-PT/report_064/issues/69) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#45](https://github.com/a11y-PT/report_064/issues/45) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | NOK | [#46](https://github.com/a11y-PT/report_064/issues/46) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web - Texto normal não tem contraste suficiente | corrigido | [#69](https://github.com/a11y-PT/report_064/issues/69) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#45](https://github.com/a11y-PT/report_064/issues/45) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#46](https://github.com/a11y-PT/report_064/issues/46) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#60](https://github.com/a11y-PT/report_064/issues/60) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não são consistentes ao longo do website | melhoria | [#63](https://github.com/a11y-PT/report_064/issues/63) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | NOK | [#19](https://github.com/a11y-PT/report_064/issues/19) |
