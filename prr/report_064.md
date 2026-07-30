@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 29/07/2026
+**Data:** 30/07/2026
 
 Lista de Issues do report_064 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,7 +12,7 @@ Lista de Issues do report_064 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#45](https://github.com/a11y-PT/report_064/issues/45) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#46](https://github.com/a11y-PT/report_064/issues/46) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#60](https://github.com/a11y-PT/report_064/issues/60) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não são consistentes ao longo do website | melhoria | [#63](https://github.com/a11y-PT/report_064/issues/63) |
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não são consistentes ao longo do website | corrigido | [#63](https://github.com/a11y-PT/report_064/issues/63) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | NOK | [#19](https://github.com/a11y-PT/report_064/issues/19) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | corrigido | [#65](https://github.com/a11y-PT/report_064/issues/65) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#66](https://github.com/a11y-PT/report_064/issues/66) |

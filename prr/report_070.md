@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 29/07/2026
+**Data:** 30/07/2026
 
 Lista de Issues do report_070 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -9,7 +9,7 @@ Lista de Issues do report_070 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem textos de etiquetas não visíveis | corrigido | [#12](https://github.com/a11y-PT/report_070/issues/12) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiquetas posicionadas de forma incorreta | corrigido | [#13](https://github.com/a11y-PT/report_070/issues/13) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Botões com texto alternativo em inglês | melhoria | [#20](https://github.com/a11y-PT/report_070/issues/20) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Botão com texto alternativo incorreto | NOK | [#67](https://github.com/a11y-PT/report_070/issues/67) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Botão com texto alternativo incorreto | corrigido | [#67](https://github.com/a11y-PT/report_070/issues/67) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Há texto em imagens que não cumpre o rácio mínimo de contraste | melhoria | [#3](https://github.com/a11y-PT/report_070/issues/3) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Há texto em imagens que não está legível | melhoria | [#35](https://github.com/a11y-PT/report_070/issues/35) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações distinguem-se do texto envolvente | OK | [#40](https://github.com/a11y-PT/report_070/issues/40) |

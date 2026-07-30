@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 29/07/2026
+**Data:** 30/07/2026
 
 Lista de Issues do report_065 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -13,7 +13,7 @@ Lista de Issues do report_065 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web - Texto normal não tem contraste suficiente | NOK | [#46](https://github.com/a11y-PT/report_065/issues/46) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#54](https://github.com/a11y-PT/report_065/issues/54) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo  - O conteúdo do site fica desformatado em resoluções mais pequenas | NOK | [#70](https://github.com/a11y-PT/report_065/issues/70) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#45](https://github.com/a11y-PT/report_065/issues/45) |
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#45](https://github.com/a11y-PT/report_065/issues/45) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | NOK | [#17](https://github.com/a11y-PT/report_065/issues/17) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#10](https://github.com/a11y-PT/report_065/issues/10) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | NOK | [#28](https://github.com/a11y-PT/report_065/issues/28) |

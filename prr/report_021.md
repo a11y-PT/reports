@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 29/07/2026
+**Data:** 30/07/2026
 
 Lista de Issues do report_021 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -16,4 +16,4 @@ Lista de Issues do report_021 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - É confirmado o sucesso da transação/envio de informação | OK | [#57](https://github.com/a11y-PT/report_021/issues/57) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#60](https://github.com/a11y-PT/report_021/issues/60) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#3](https://github.com/a11y-PT/report_021/issues/3) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#4](https://github.com/a11y-PT/report_021/issues/4) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#4](https://github.com/a11y-PT/report_021/issues/4) |

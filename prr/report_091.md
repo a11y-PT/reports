@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 29/07/2026
+**Data:** 30/07/2026
 
 Lista de Issues do report_091 filtrados pelas labels constantes nas duas primeiras colunas.
 
