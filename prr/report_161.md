@@ -1,11 +1,15 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 29/07/2026
+**Data:** 30/07/2026
 
 Lista de Issues do report_161 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta visível | NOK | [#8](https://github.com/a11y-PT/report_161/issues/8) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não corresponde ao nome acessível | NOK | [#9](https://github.com/a11y-PT/report_161/issues/9) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#10](https://github.com/a11y-PT/report_161/issues/10) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulário externos sendo incorporados no website | NOK | [#11](https://github.com/a11y-PT/report_161/issues/11) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | NOK | [#7](https://github.com/a11y-PT/report_161/issues/7) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações com apresentação visual inconsistente | melhoria | [#5](https://github.com/a11y-PT/report_161/issues/5) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_161/issues/4) |
