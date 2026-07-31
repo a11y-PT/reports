@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 30/07/2026
+**Data:** 31/07/2026
 
 Lista de Issues do report_070 filtrados pelas labels constantes nas duas primeiras colunas.
 
