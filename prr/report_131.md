@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 30/07/2026
+**Data:** 31/07/2026
 
 Lista de Issues do report_131 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -14,8 +14,11 @@ Lista de Issues do report_131 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O campo em foco deve ter uma indicação visual clara | melhoria | [#17](https://github.com/a11y-PT/report_131/issues/17) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens utilizadas como hiperligações que não apresentam um equivalente textual adequado. | NOK | [#6](https://github.com/a11y-PT/report_131/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#7](https://github.com/a11y-PT/report_131/issues/7) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#20](https://github.com/a11y-PT/report_131/issues/20) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações estão corretamente identificadas | OK | [#5](https://github.com/a11y-PT/report_131/issues/5) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_131/issues/4) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#18](https://github.com/a11y-PT/report_131/issues/18) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#19](https://github.com/a11y-PT/report_131/issues/19) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#2](https://github.com/a11y-PT/report_131/issues/2) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#8](https://github.com/a11y-PT/report_131/issues/8) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_131/issues/1) |

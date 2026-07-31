@@ -1,11 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 30/07/2026
+**Data:** 31/07/2026
 
 Lista de Issues do report_160 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | NOK | [#9](https://github.com/a11y-PT/report_160/issues/9) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#11](https://github.com/a11y-PT/report_160/issues/11) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens utilizadas como hiperligações apresentam texto alternativo incorreto ou insuficiente | NOK | [#6](https://github.com/a11y-PT/report_160/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste insuficiente entre a cor do texto e a cor de fundo | NOK | [#8](https://github.com/a11y-PT/report_160/issues/8) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Todas as hiperligações estão corretamente identificadas | OK | [#5](https://github.com/a11y-PT/report_160/issues/5) |
