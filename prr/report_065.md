@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 31/07/2026
+**Data:** 03/08/2026
 
 Lista de Issues do report_065 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - Existem campos sem etiquetas associadas | NOK | [#49](https://github.com/a11y-PT/report_065/issues/49) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - Existem campos sem etiquetas associadas | corrigido | [#49](https://github.com/a11y-PT/report_065/issues/49) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - O atributo placeholder está a substituir a etiqueta | NOK | [#50](https://github.com/a11y-PT/report_065/issues/50) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagens link com texto alternativo incorreto. | NOK | [#4](https://github.com/a11y-PT/report_065/issues/4) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagem-link com nome acessível definido incorretamente através de title | NOK | [#77](https://github.com/a11y-PT/report_065/issues/77) |
