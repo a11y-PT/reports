@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 31/07/2026
+**Data:** 03/08/2026
 
 Lista de Issues do report_145 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,7 +12,7 @@ Lista de Issues do report_145 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os radiobuttons não estão agrupados por fieldset | NOK | [#16](https://github.com/a11y-PT/report_145/issues/16) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta estruturada com link | NOK | [#17](https://github.com/a11y-PT/report_145/issues/17) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens utilizadas como hiperligações apresentam texto alternativo incorreto ou insuficiente | NOK | [#6](https://github.com/a11y-PT/report_145/issues/6) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste insuficiente entre a cor do texto e a cor de fundo | NOK | [#8](https://github.com/a11y-PT/report_145/issues/8) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste insuficiente entre a cor do texto e a cor de fundo | corrigido | [#8](https://github.com/a11y-PT/report_145/issues/8) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Texto apresentado com aparência de hiperligação | melhoria | [#5](https://github.com/a11y-PT/report_145/issues/5) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#4](https://github.com/a11y-PT/report_145/issues/4) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback anunciado com utilização de região ARIA inadequada | melhoria | [#3](https://github.com/a11y-PT/report_145/issues/3) |
