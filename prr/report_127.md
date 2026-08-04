@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/08/2026
+**Data:** 04/08/2026
 
 Lista de Issues do report_127 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -21,3 +21,4 @@ Lista de Issues do report_127 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas aos respetivos campos | NOK | [#12](https://github.com/a11y-PT/report_127/issues/12) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor /Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_127/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Existem erros de Acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_127/issues/2) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#16](https://github.com/a11y-PT/report_127/issues/16) |

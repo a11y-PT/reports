@@ -1,11 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/08/2026
+**Data:** 04/08/2026
 
 Lista de Issues do report_168 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | NOK | [#7](https://github.com/a11y-PT/report_168/issues/7) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Todas as hiperligações estão corretamente identificadas | OK | [#6](https://github.com/a11y-PT/report_168/issues/6) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px CSS (44 pontos) (vertical e horizontal) | OK | [#4](https://github.com/a11y-PT/report_168/issues/4) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Impossibilidade de avaliar o feedback após submissão devido a erro no processamento do formulário | NOK | [#3](https://github.com/a11y-PT/report_168/issues/3) |
