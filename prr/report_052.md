@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/08/2026
+**Data:** 04/08/2026
 
 Lista de Issues do report_052 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -11,7 +11,7 @@ Lista de Issues do report_052 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens link com texto alternativo incorreto | NOK | [#22](https://github.com/a11y-PT/report_052/issues/22) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens-link e botões que estão sendo estruturados de forma inapropriada | NOK | [#48](https://github.com/a11y-PT/report_052/issues/48) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Incorreto rácio de contraste na a cor dos textos de tamanho normal | OK | [#49](https://github.com/a11y-PT/report_052/issues/49) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Informações primárias não possuem tamanho mínimo recomendado | NOK | [#12](https://github.com/a11y-PT/report_052/issues/12) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Informações primárias não possuem tamanho mínimo recomendado | corrigido | [#12](https://github.com/a11y-PT/report_052/issues/12) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações não identificáveis como clicáveis no website | OK | [#32](https://github.com/a11y-PT/report_052/issues/32) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px CSS (44 pontos) | OK | [#6](https://github.com/a11y-PT/report_052/issues/6) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios | melhoria | [#75](https://github.com/a11y-PT/report_052/issues/75) |

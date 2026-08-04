@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/08/2026
+**Data:** 04/08/2026
 
 Lista de Issues do report_067 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,7 +17,7 @@ Lista de Issues do report_067 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - O critério relativo a formulários PDF não se aplica | N/A | [#41](https://github.com/a11y-PT/report_067/issues/41) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Os campos obrigatórios do formulário apresentam identificação adequada | OK | [#42](https://github.com/a11y-PT/report_067/issues/42) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Os campos obrigatórios do formulário apresentam identificação programática adequada | OK | [#44](https://github.com/a11y-PT/report_067/issues/44) |
-| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | NOK | [#18](https://github.com/a11y-PT/report_067/issues/18) |
+| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#18](https://github.com/a11y-PT/report_067/issues/18) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Apresentação correta de mensagens de erro | OK | [#49](https://github.com/a11y-PT/report_067/issues/49) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_067/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#2](https://github.com/a11y-PT/report_067/issues/2) |

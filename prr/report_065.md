@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/08/2026
+**Data:** 04/08/2026
 
 Lista de Issues do report_065 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -19,6 +19,6 @@ Lista de Issues do report_065 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | NOK | [#28](https://github.com/a11y-PT/report_065/issues/28) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | NOK | [#14](https://github.com/a11y-PT/report_065/issues/14) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens não associadas programaticamente aos campos | NOK | [#61](https://github.com/a11y-PT/report_065/issues/61) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem campos sem mensagens de erro na sua vizinhança | NOK | [#65](https://github.com/a11y-PT/report_065/issues/65) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem campos sem mensagens de erro na sua vizinhança | corrigido | [#65](https://github.com/a11y-PT/report_065/issues/65) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_065/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#2](https://github.com/a11y-PT/report_065/issues/2) |

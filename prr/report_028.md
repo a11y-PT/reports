@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/08/2026
+**Data:** 04/08/2026
 
 Lista de Issues do report_028 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -20,6 +20,7 @@ Lista de Issues do report_028 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#114](https://github.com/a11y-PT/report_028/issues/114) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Indicação de obrigatoriedade mal implementada nos campos do formulário | melhoria | [#115](https://github.com/a11y-PT/report_028/issues/115) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | melhoria | [#21](https://github.com/a11y-PT/report_028/issues/21) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#18](https://github.com/a11y-PT/report_028/issues/18) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Inexistência de mensagens de erro na vizinhança dos campos | NOK | [#18](https://github.com/a11y-PT/report_028/issues/18) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas programaticamente | NOK | [#116](https://github.com/a11y-PT/report_028/issues/116) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_028/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | NOK | [#110](https://github.com/a11y-PT/report_028/issues/110) |

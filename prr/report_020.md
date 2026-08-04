@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/08/2026
+**Data:** 04/08/2026
 
 Lista de Issues do report_020 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -9,7 +9,7 @@ Lista de Issues do report_020 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O texto placeholder está a substituir a label | corrigido | [#55](https://github.com/a11y-PT/report_020/issues/55) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem campos com etiquetas pouco claras | corrigido | [#67](https://github.com/a11y-PT/report_020/issues/67) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens link com texto alternativo incorreto | corrigido | [#48](https://github.com/a11y-PT/report_020/issues/48) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não tem contraste suficiente | corrigido | [#44](https://github.com/a11y-PT/report_020/issues/44) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não tem contraste suficiente | NOK | [#44](https://github.com/a11y-PT/report_020/issues/44) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Informações primárias não possuem tamanho mínimo recomendado | corrigido | [#9](https://github.com/a11y-PT/report_020/issues/9) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações sem indicação visual complementar | OK | [#66](https://github.com/a11y-PT/report_020/issues/66) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px CSS (44 pontos) (vertical e horizontal) | corrigido | [#17](https://github.com/a11y-PT/report_020/issues/17) |
