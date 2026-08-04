@@ -180,3 +180,4 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_176 - PRR - Bem Mer Ker App Android](https://a11y-pt.github.io/report_176/)
 - [report_177 - PRR - Bem Mer Ker App iOS](https://a11y-pt.github.io/report_177/)
 - [report_178 - PRR - Município de Alenquer - Visual Forma](https://a11y-pt.github.io/report_178/)
+- [report_179 - PRR - Serviços Municipalizados de Água e Saneamento de Torres Vedras - Wiremaze ](https://a11y-pt.github.io/report_179/)
