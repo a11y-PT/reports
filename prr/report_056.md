@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 04/08/2026
+**Data:** 05/08/2026
 
 Lista de Issues do report_056 filtrados pelas labels constantes nas duas primeiras colunas.
 

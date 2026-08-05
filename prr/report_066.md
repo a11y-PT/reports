@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 04/08/2026
+**Data:** 05/08/2026
 
 Lista de Issues do report_066 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -13,8 +13,8 @@ Lista de Issues do report_066 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#74](https://github.com/a11y-PT/report_066/issues/74) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#55](https://github.com/a11y-PT/report_066/issues/55) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | NOK | [#21](https://github.com/a11y-PT/report_066/issues/21) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente  | NOK | [#18](https://github.com/a11y-PT/report_066/issues/18) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#25](https://github.com/a11y-PT/report_066/issues/25) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente  | corrigido | [#18](https://github.com/a11y-PT/report_066/issues/18) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios devem ser claramente indicados como tal | corrigido | [#25](https://github.com/a11y-PT/report_066/issues/25) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#4](https://github.com/a11y-PT/report_066/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens não associadas programaticamente aos campos | corrigido | [#76](https://github.com/a11y-PT/report_066/issues/76) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens de erro apresentadas entre a etiqueta e o campo | corrigido | [#81](https://github.com/a11y-PT/report_066/issues/81) |

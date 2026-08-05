@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 04/08/2026
+**Data:** 05/08/2026
 
 Lista de Issues do report_089 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,6 +17,6 @@ Lista de Issues do report_089 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#14](https://github.com/a11y-PT/report_089/issues/14) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#4](https://github.com/a11y-PT/report_089/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas aos respetivos campos | NOK | [#13](https://github.com/a11y-PT/report_089/issues/13) |
-| label:"av auto" |  | Avaliação Automática - Accessmonitor / Observatório (em avaliação) | corrigido | [#1](https://github.com/a11y-PT/report_089/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Accessmonitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_089/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Site não é avaliado | melhoria | [#2](https://github.com/a11y-PT/report_089/issues/2) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#15](https://github.com/a11y-PT/report_089/issues/15) |
