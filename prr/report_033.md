@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 05/08/2026
+**Data:** 07/08/2026
 
 Lista de Issues do report_033 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -23,3 +23,4 @@ Lista de Issues do report_033 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Inexistência de associação programática das mensagens de erro aos campos | NOK | [#115](https://github.com/a11y-PT/report_033/issues/115) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_033/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | NOK | [#110](https://github.com/a11y-PT/report_033/issues/110) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#116](https://github.com/a11y-PT/report_033/issues/116) |
