@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 05/08/2026
+**Data:** 07/08/2026
 
 Lista de Issues do report_134 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -23,3 +23,4 @@ Lista de Issues do report_134 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#8](https://github.com/a11y-PT/report_134/issues/8) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_134/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_134/issues/2) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#20](https://github.com/a11y-PT/report_134/issues/20) |
