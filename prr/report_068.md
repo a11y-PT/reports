@@ -16,7 +16,7 @@ Lista de Issues do report_068 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | NOK | [#67](https://github.com/a11y-PT/report_068/issues/67) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#68](https://github.com/a11y-PT/report_068/issues/68) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#70](https://github.com/a11y-PT/report_068/issues/70) |
-| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | NOK | [#26](https://github.com/a11y-PT/report_068/issues/26) |
+| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#26](https://github.com/a11y-PT/report_068/issues/26) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Mensagens de erro de autenticação e validação não totalmente acessíveis nem corretamente anunciadas | corrigido | [#64](https://github.com/a11y-PT/report_068/issues/64) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens de erro apresentadas entre a etiqueta e o campo | corrigido | [#29](https://github.com/a11y-PT/report_068/issues/29) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório | NOK | [#1](https://github.com/a11y-PT/report_068/issues/1) |
