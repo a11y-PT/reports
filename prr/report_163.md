@@ -18,3 +18,4 @@ Lista de Issues do report_163 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#7](https://github.com/a11y-PT/report_163/issues/7) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_163/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_163/issues/2) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#18](https://github.com/a11y-PT/report_163/issues/18) |

@@ -17,6 +17,6 @@ Lista de Issues do report_149 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px CSS (44 pontos) (vertical e horizontal) | OK | [#4](https://github.com/a11y-PT/report_149/issues/4) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#14](https://github.com/a11y-PT/report_149/issues/14) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | melhoria | [#3](https://github.com/a11y-PT/report_149/issues/3) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagem de erro incorretamente associada ao campo | NOK | [#6](https://github.com/a11y-PT/report_149/issues/6) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagem de erro incorretamente associada ao campo | corrigido | [#6](https://github.com/a11y-PT/report_149/issues/6) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação | OK | [#1](https://github.com/a11y-PT/report_149/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_149/issues/2) |
