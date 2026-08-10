@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 07/08/2026
+**Data:** 10/08/2026
 
 Lista de Issues do report_158 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -20,3 +20,4 @@ Lista de Issues do report_158 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não apresentadas junto aos respetivos campos | NOK | [#4](https://github.com/a11y-PT/report_158/issues/4) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_158/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - We couldn't reach that URL | melhoria | [#2](https://github.com/a11y-PT/report_158/issues/2) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#15](https://github.com/a11y-PT/report_158/issues/15) |
