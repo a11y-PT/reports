@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 07/08/2026
+**Data:** 10/08/2026
 
 Lista de Issues do report_059 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,7 +17,7 @@ Lista de Issues do report_059 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Confirmação de sucesso acessível a tecnologias de apoio | OK | [#3](https://github.com/a11y-PT/report_059/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagem de erro global não identifica nem direciona os erros do formulário | NOK | [#61](https://github.com/a11y-PT/report_059/issues/61) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação  - Mensagens de erro não estão corretamente associadas a todos os campos | NOK | [#64](https://github.com/a11y-PT/report_059/issues/64) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Formulário em PDF não apresenta mensagens de erro junto aos campos de preenchimento | NOK | [#79](https://github.com/a11y-PT/report_059/issues/79) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Formulário em PDF não apresenta mensagens de erro junto aos campos de preenchimento | melhoria | [#79](https://github.com/a11y-PT/report_059/issues/79) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_059/issues/2) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#26](https://github.com/a11y-PT/report_059/issues/26) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#85](https://github.com/a11y-PT/report_059/issues/85) |

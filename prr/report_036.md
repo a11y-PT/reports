@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 07/08/2026
+**Data:** 10/08/2026
 
 Lista de Issues do report_036 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -14,7 +14,7 @@ Lista de Issues do report_036 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - A informação sobre contactos no rodapé possui tamanho inferior a 16px | NOK | [#40](https://github.com/a11y-PT/report_036/issues/40) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo tem um tamanho de texto inferior a 12pt (16px) | NOK | [#41](https://github.com/a11y-PT/report_036/issues/41) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações de texto não se diferenciam apenas com base na cor | OK | [#113](https://github.com/a11y-PT/report_036/issues/113) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | NOK | [#13](https://github.com/a11y-PT/report_036/issues/13) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | corrigido | [#13](https://github.com/a11y-PT/report_036/issues/13) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#114](https://github.com/a11y-PT/report_036/issues/114) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#115](https://github.com/a11y-PT/report_036/issues/115) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | OK | [#21](https://github.com/a11y-PT/report_036/issues/21) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 07/08/2026
+**Data:** 10/08/2026
 
 Lista de Issues do report_061 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,7 +12,7 @@ Lista de Issues do report_061 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo (Usabilidade, tamanho e tipo de letra) | corrigido | [#33](https://github.com/a11y-PT/report_061/issues/33) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo (Usabilidade, tamanho e tipo de letra) | corrigido | [#34](https://github.com/a11y-PT/report_061/issues/34) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo (Estrutura da Navegação) | OK | [#16](https://github.com/a11y-PT/report_061/issues/16) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo  (Elementos Interativos) | NOK | [#8](https://github.com/a11y-PT/report_061/issues/8) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo  (Elementos Interativos) | corrigido | [#8](https://github.com/a11y-PT/report_061/issues/8) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação (Campos) | corrigido | [#49](https://github.com/a11y-PT/report_061/issues/49) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação (Campos) | corrigido | [#52](https://github.com/a11y-PT/report_061/issues/52) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação (Campos) | melhoria | [#60](https://github.com/a11y-PT/report_061/issues/60) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 07/08/2026
+**Data:** 10/08/2026
 
 Lista de Issues do report_076 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,9 +12,9 @@ Lista de Issues do report_076 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não têm contraste suficiente | NOK | [#29](https://github.com/a11y-PT/report_076/issues/29) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal não têm contraste suficiente em certos estados | corrigido | [#30](https://github.com/a11y-PT/report_076/issues/30) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#32](https://github.com/a11y-PT/report_076/issues/32) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | NOK | [#33](https://github.com/a11y-PT/report_076/issues/33) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#33](https://github.com/a11y-PT/report_076/issues/33) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações percetíveis apenas com hover | corrigido | [#63](https://github.com/a11y-PT/report_076/issues/63) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#45](https://github.com/a11y-PT/report_076/issues/45) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#45](https://github.com/a11y-PT/report_076/issues/45) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#13](https://github.com/a11y-PT/report_076/issues/13) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado de forma imediata | melhoria | [#6](https://github.com/a11y-PT/report_076/issues/6) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#67](https://github.com/a11y-PT/report_076/issues/67) |
