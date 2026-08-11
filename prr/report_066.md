@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 10/08/2026
+**Data:** 11/08/2026
 
 Lista de Issues do report_066 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,7 +12,7 @@ Lista de Issues do report_066 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#73](https://github.com/a11y-PT/report_066/issues/73) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#74](https://github.com/a11y-PT/report_066/issues/74) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#55](https://github.com/a11y-PT/report_066/issues/55) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | NOK | [#21](https://github.com/a11y-PT/report_066/issues/21) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | corrigido | [#21](https://github.com/a11y-PT/report_066/issues/21) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente  | corrigido | [#18](https://github.com/a11y-PT/report_066/issues/18) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios devem ser claramente indicados como tal | corrigido | [#25](https://github.com/a11y-PT/report_066/issues/25) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#4](https://github.com/a11y-PT/report_066/issues/4) |

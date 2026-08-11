@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 10/08/2026
+**Data:** 11/08/2026
 
 Lista de Issues do report_113 filtrados pelas labels constantes nas duas primeiras colunas.
 
