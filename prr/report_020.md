@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 11/08/2026
+**Data:** 12/08/2026
 
 Lista de Issues do report_020 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -19,4 +19,4 @@ Lista de Issues do report_020 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Confirmação de sucesso invisível para tecnologias de apoio. | melhoria | [#16](https://github.com/a11y-PT/report_020/issues/16) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem formulários sem Mensagens de erro junto aos campos | corrigido | [#75](https://github.com/a11y-PT/report_020/issues/75) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#74](https://github.com/a11y-PT/report_020/issues/74) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#80](https://github.com/a11y-PT/report_020/issues/80) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#80](https://github.com/a11y-PT/report_020/issues/80) |

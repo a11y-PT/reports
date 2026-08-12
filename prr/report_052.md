@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 11/08/2026
+**Data:** 12/08/2026
 
 Lista de Issues do report_052 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -18,5 +18,5 @@ Lista de Issues do report_052 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | melhoria | [#77](https://github.com/a11y-PT/report_052/issues/77) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Mensagens de sucesso não acessíveis após submissão | corrigido | [#23](https://github.com/a11y-PT/report_052/issues/23) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Não são devolvidas mensagens de erro junto a cada campo do formulário | corrigido | [#80](https://github.com/a11y-PT/report_052/issues/80) |
-| label:"av auto" |  | Avaliação automática - Access Monitor / Observatório (em avaliação)  | NOK | [#1](https://github.com/a11y-PT/report_052/issues/1) |
+| label:"av auto" |  | Avaliação automática - Access Monitor / Observatório (em avaliação)  | OK | [#1](https://github.com/a11y-PT/report_052/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Existem problemas de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_052/issues/2) |

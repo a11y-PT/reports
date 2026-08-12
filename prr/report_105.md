@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 11/08/2026
+**Data:** 12/08/2026
 
 Lista de Issues do report_105 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -10,7 +10,7 @@ Lista de Issues do report_105 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#10](https://github.com/a11y-PT/report_105/issues/10) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Uso desnecessário do fieldset | melhoria | [#11](https://github.com/a11y-PT/report_105/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#12](https://github.com/a11y-PT/report_105/issues/12) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | NOK | [#6](https://github.com/a11y-PT/report_105/issues/6) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | corrigido | [#6](https://github.com/a11y-PT/report_105/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#15](https://github.com/a11y-PT/report_105/issues/15) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#13](https://github.com/a11y-PT/report_105/issues/13) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#14](https://github.com/a11y-PT/report_105/issues/14) |
