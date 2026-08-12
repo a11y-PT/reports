@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 11/08/2026
+**Data:** 12/08/2026
 
 Lista de Issues do report_130 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -10,7 +10,7 @@ Lista de Issues do report_130 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulário externos sendo incorporados no website | melhoria | [#8](https://github.com/a11y-PT/report_130/issues/8) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens utilizadas como hiperligações que não apresentam um equivalente textual adequado. | NOK | [#6](https://github.com/a11y-PT/report_130/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#10](https://github.com/a11y-PT/report_130/issues/10) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#11](https://github.com/a11y-PT/report_130/issues/11) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#11](https://github.com/a11y-PT/report_130/issues/11) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#5](https://github.com/a11y-PT/report_130/issues/5) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px CSS (44 pontos) (vertical e horizontal) | OK | [#4](https://github.com/a11y-PT/report_130/issues/4) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#12](https://github.com/a11y-PT/report_130/issues/12) |
