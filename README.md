@@ -188,4 +188,4 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_184 - PRR - Portal do SIGAME App Android](https://a11y-pt.github.io/report_184/)
 - [report_185 - PRR - Portal do SIGAME App iOS](https://a11y-pt.github.io/report_185/)
 - [report_186 - PRR - Santo António App Android](https://a11y-pt.github.io/report_186/)
-- [report_187 - PRR - Santo António App Android](https://a11y-pt.github.io/report_187/)
+- [report_187 - PRR - Santo António App iOS](https://a11y-pt.github.io/report_187/)
