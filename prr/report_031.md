@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 12/08/2026
+**Data:** 14/08/2026
 
 Lista de Issues do report_031 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,7 +17,7 @@ Lista de Issues do report_031 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | corrigido | [#13](https://github.com/a11y-PT/report_031/issues/13) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#112](https://github.com/a11y-PT/report_031/issues/112) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | melhoria | [#21](https://github.com/a11y-PT/report_031/issues/21) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos campos mas não anunciadas pelos leitores de ecrã | NOK | [#18](https://github.com/a11y-PT/report_031/issues/18) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos campos mas não anunciadas pelos leitores de ecrã | melhoria | [#18](https://github.com/a11y-PT/report_031/issues/18) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Campos sem mensagens de erro na sua vizinhança | NOK | [#113](https://github.com/a11y-PT/report_031/issues/113) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_031/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | OK | [#110](https://github.com/a11y-PT/report_031/issues/110) |

@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 12/08/2026
+**Data:** 14/08/2026
 
 Lista de Issues do report_066 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - Existem campos de formulário sem etiquetas associadas | corrigido | [#39](https://github.com/a11y-PT/report_066/issues/39) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagens link com texto alternativo incorreto. | NOK | [#40](https://github.com/a11y-PT/report_066/issues/40) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagens link com texto alternativo incorreto. | corrigido | [#40](https://github.com/a11y-PT/report_066/issues/40) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web - Texto normal não tem contraste suficiente | corrigido | [#77](https://github.com/a11y-PT/report_066/issues/77) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#73](https://github.com/a11y-PT/report_066/issues/73) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#74](https://github.com/a11y-PT/report_066/issues/74) |

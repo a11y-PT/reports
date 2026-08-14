@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 12/08/2026
+**Data:** 14/08/2026
 
 Lista de Issues do report_132 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | corrigido | [#7](https://github.com/a11y-PT/report_132/issues/7) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens utilizadas como hiperligações que não apresentam um equivalente textual adequado | NOK | [#5](https://github.com/a11y-PT/report_132/issues/5) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens utilizadas como hiperligações que não apresentam um equivalente textual adequado | corrigido | [#5](https://github.com/a11y-PT/report_132/issues/5) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#6](https://github.com/a11y-PT/report_132/issues/6) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#8](https://github.com/a11y-PT/report_132/issues/8) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#4](https://github.com/a11y-PT/report_132/issues/4) |

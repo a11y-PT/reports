@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 12/08/2026
+**Data:** 14/08/2026
 
 Lista de Issues do report_076 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -11,7 +11,7 @@ Lista de Issues do report_076 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com estrutura semântica incorreta | corrigido | [#40](https://github.com/a11y-PT/report_076/issues/40) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não têm contraste suficiente | NOK | [#29](https://github.com/a11y-PT/report_076/issues/29) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal não têm contraste suficiente em certos estados | corrigido | [#30](https://github.com/a11y-PT/report_076/issues/30) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#32](https://github.com/a11y-PT/report_076/issues/32) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#32](https://github.com/a11y-PT/report_076/issues/32) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#33](https://github.com/a11y-PT/report_076/issues/33) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações percetíveis apenas com hover | corrigido | [#63](https://github.com/a11y-PT/report_076/issues/63) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#45](https://github.com/a11y-PT/report_076/issues/45) |
