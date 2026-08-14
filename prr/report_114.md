@@ -10,9 +10,9 @@ Lista de Issues do report_114 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | corrigido | [#5](https://github.com/a11y-PT/report_114/issues/5) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#7](https://github.com/a11y-PT/report_114/issues/7) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho de letra mínimo recomendado (16px) | OK | [#6](https://github.com/a11y-PT/report_114/issues/6) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#8](https://github.com/a11y-PT/report_114/issues/8) |
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#8](https://github.com/a11y-PT/report_114/issues/8) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#3](https://github.com/a11y-PT/report_114/issues/3) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#11](https://github.com/a11y-PT/report_114/issues/11) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | melhoria | [#11](https://github.com/a11y-PT/report_114/issues/11) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Inexistência de formulários com confirmação de sucesso após submissão | N/A | [#4](https://github.com/a11y-PT/report_114/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Inexistência de formulários com validação de erros | N/A | [#10](https://github.com/a11y-PT/report_114/issues/10) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_114/issues/1) |

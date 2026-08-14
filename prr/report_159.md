@@ -6,7 +6,7 @@ Lista de Issues do report_159 filtrados pelas labels constantes nas duas primeir
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Campos sem etiquetas associadas | NOK | [#11](https://github.com/a11y-PT/report_159/issues/11) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Campos sem etiquetas associadas | corrigido | [#11](https://github.com/a11y-PT/report_159/issues/11) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | NOK | [#6](https://github.com/a11y-PT/report_159/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto dos elementos interativos possui contraste abaixo do recomendado | melhoria | [#8](https://github.com/a11y-PT/report_159/issues/8) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Mensagem de aviso com contraste abaixo do recomendado | NOK | [#9](https://github.com/a11y-PT/report_159/issues/9) |

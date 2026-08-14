@@ -6,7 +6,7 @@ Lista de Issues do report_035 filtrados pelas labels constantes nas duas primeir
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Formulários pdf com etiquetas não discerníveis pelas tecnologias de apoio | NOK | [#107](https://github.com/a11y-PT/report_035/issues/107) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Formulários pdf com etiquetas não discerníveis pelas tecnologias de apoio | corrigido | [#107](https://github.com/a11y-PT/report_035/issues/107) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - etiquetas invisíveis para todos os agentes | corrigido | [#113](https://github.com/a11y-PT/report_035/issues/113) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiquetas associadas a botões de pesquisa | NOK | [#114](https://github.com/a11y-PT/report_035/issues/114) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_035/issues/51) |

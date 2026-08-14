@@ -14,7 +14,7 @@ Lista de Issues do report_165 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#15](https://github.com/a11y-PT/report_165/issues/15) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações com apresentação visual inconsistente | melhoria | [#6](https://github.com/a11y-PT/report_165/issues/6) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px CSS (44 pontos) (vertical e horizontal) | OK | [#5](https://github.com/a11y-PT/report_165/issues/5) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#17](https://github.com/a11y-PT/report_165/issues/17) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | melhoria | [#17](https://github.com/a11y-PT/report_165/issues/17) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Impossibilidade de avaliar o feedback após submissão devido a erro no processamento do formulário | corrigido | [#3](https://github.com/a11y-PT/report_165/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#7](https://github.com/a11y-PT/report_165/issues/7) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_165/issues/1) |

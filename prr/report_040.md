@@ -20,7 +20,7 @@ Lista de Issues do report_040 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#114](https://github.com/a11y-PT/report_040/issues/114) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Uso incorreto do atributo required | melhoria | [#115](https://github.com/a11y-PT/report_040/issues/115) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | OK | [#21](https://github.com/a11y-PT/report_040/issues/21) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro associadas programaticamente aos campos de forma incorreta | NOK | [#18](https://github.com/a11y-PT/report_040/issues/18) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro associadas programaticamente aos campos de forma incorreta | corrigido | [#18](https://github.com/a11y-PT/report_040/issues/18) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_040/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | OK | [#110](https://github.com/a11y-PT/report_040/issues/110) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#116](https://github.com/a11y-PT/report_040/issues/116) |

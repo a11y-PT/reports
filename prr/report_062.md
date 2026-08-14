@@ -15,7 +15,7 @@ Lista de Issues do report_062 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo- O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#46](https://github.com/a11y-PT/report_062/issues/46) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações com indicação visual consistente | OK | [#38](https://github.com/a11y-PT/report_062/issues/38) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | corrigido | [#6](https://github.com/a11y-PT/report_062/issues/6) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#53](https://github.com/a11y-PT/report_062/issues/53) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | corrigido | [#53](https://github.com/a11y-PT/report_062/issues/53) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Inexistência de formulários com submissão e feedback associado | N/A | [#15](https://github.com/a11y-PT/report_062/issues/15) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Inexistência de formulários que prexisem de apresentar mensagens de erro | N/A | [#78](https://github.com/a11y-PT/report_062/issues/78) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_062/issues/1) |

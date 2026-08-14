@@ -8,7 +8,7 @@ Lista de Issues do report_013 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O texto placeholder está a substituir a label | corrigido | [#54](https://github.com/a11y-PT/report_013/issues/54) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está corretamente associada ao campo | corrigido | [#83](https://github.com/a11y-PT/report_013/issues/83) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens-link que possuem um texto alternativo incorreto | NOK | [#40](https://github.com/a11y-PT/report_013/issues/40) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens-link que possuem um texto alternativo incorreto | corrigido | [#40](https://github.com/a11y-PT/report_013/issues/40) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens-link que não possuem um texto alternativo | corrigido | [#41](https://github.com/a11y-PT/report_013/issues/41) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com texto alternativo em inglês | melhoria | [#84](https://github.com/a11y-PT/report_013/issues/84) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal não tem contraste suficiente | corrigido | [#38](https://github.com/a11y-PT/report_013/issues/38) |

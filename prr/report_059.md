@@ -10,8 +10,8 @@ Lista de Issues do report_059 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagem link têm um equivalente alternativo incorreto | NOK | [#10](https://github.com/a11y-PT/report_059/issues/10) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal têm contraste suficiente | OK | [#43](https://github.com/a11y-PT/report_059/issues/43) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Informações primárias não possuem tamanho mínimo recomendado | NOK | [#11](https://github.com/a11y-PT/report_059/issues/11) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações sem indicação visual | NOK | [#13](https://github.com/a11y-PT/report_059/issues/13) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS (44 pontos), vertical e horizontal. | NOK | [#33](https://github.com/a11y-PT/report_059/issues/33) |
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações sem indicação visual | corrigido | [#13](https://github.com/a11y-PT/report_059/issues/13) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS (44 pontos), vertical e horizontal. | corrigido | [#33](https://github.com/a11y-PT/report_059/issues/33) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios corretamente identificados nos formulários do website | OK | [#45](https://github.com/a11y-PT/report_059/issues/45) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#77](https://github.com/a11y-PT/report_059/issues/77) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Confirmação de sucesso acessível a tecnologias de apoio | OK | [#3](https://github.com/a11y-PT/report_059/issues/3) |

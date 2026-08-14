@@ -9,7 +9,7 @@ Lista de Issues do report_146 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | NOK | [#9](https://github.com/a11y-PT/report_146/issues/9) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#11](https://github.com/a11y-PT/report_146/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O campo em foco deve ter uma indicação visual clara | melhoria | [#14](https://github.com/a11y-PT/report_146/issues/14) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens utilizadas como hiperligações que não apresentam um equivalente textual adequado | NOK | [#6](https://github.com/a11y-PT/report_146/issues/6) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens utilizadas como hiperligações que não apresentam um equivalente textual adequado | corrigido | [#6](https://github.com/a11y-PT/report_146/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#8](https://github.com/a11y-PT/report_146/issues/8) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#15](https://github.com/a11y-PT/report_146/issues/15) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#5](https://github.com/a11y-PT/report_146/issues/5) |

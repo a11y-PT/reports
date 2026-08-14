@@ -10,7 +10,7 @@ Lista de Issues do report_080 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem-link com equivalente alternativo em texto incorreto | corrigido | [#23](https://github.com/a11y-PT/report_080/issues/23) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não têm contraste suficiente | NOK | [#31](https://github.com/a11y-PT/report_080/issues/31) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos | OK | [#42](https://github.com/a11y-PT/report_080/issues/42) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#60](https://github.com/a11y-PT/report_080/issues/60) |
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#60](https://github.com/a11y-PT/report_080/issues/60) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#36](https://github.com/a11y-PT/report_080/issues/36) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#58](https://github.com/a11y-PT/report_080/issues/58) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#4](https://github.com/a11y-PT/report_080/issues/4) |
