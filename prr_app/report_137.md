@@ -11,3 +11,4 @@ Lista de Issues do report_137 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 app" | label:"R 8.1" | R 8.1 - 10 Aspetos App - Alternativas em texto implementadas corretamente | OK | [#11](https://github.com/a11y-PT/report_137/issues/11) |
 | label:"chk 10 app" | label:"R 9.1" | R 9.1 - 10 Aspetos App - O contraste dos links apresentados em texto está abaixo do recomendado | NOK | [#9](https://github.com/a11y-PT/report_137/issues/9) |
 | label:"chk 10 app" | label:"R 10.1" | R 10.1 - 10 Aspetos App  - Idioma da aplicação corretamente identificado | OK | [#10](https://github.com/a11y-PT/report_137/issues/10) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#15](https://github.com/a11y-PT/report_137/issues/15) |

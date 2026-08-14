@@ -11,3 +11,4 @@ Lista de Issues do report_139 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 app" | label:"R 8.1" | R 8.1 - 10 Aspetos - Alternativas em texto implementadas corretamente | OK | [#7](https://github.com/a11y-PT/report_139/issues/7) |
 | label:"chk 10 app" | label:"R 9.1" | R 9.1 - 10 Aspetos App - Nenhum texto apresenta contraste inferior a 4.5 para 1 | OK | [#9](https://github.com/a11y-PT/report_139/issues/9) |
 | label:"chk 10 app" | label:"R 10.1" | R 10.1 - 10 Aspetos App - O idioma principal codificado na página da aplicação corresponde ao idioma escrito | OK | [#8](https://github.com/a11y-PT/report_139/issues/8) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#15](https://github.com/a11y-PT/report_139/issues/15) |
