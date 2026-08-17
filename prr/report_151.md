@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 14/08/2026
+**Data:** 17/08/2026
 
 Lista de Issues do report_151 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -18,6 +18,6 @@ Lista de Issues do report_151 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#16](https://github.com/a11y-PT/report_151/issues/16) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Inexistência de formulários com submissão de informação | N/A | [#3](https://github.com/a11y-PT/report_151/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Inexistência de formulários com validação de erros | N/A | [#8](https://github.com/a11y-PT/report_151/issues/8) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_151/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_151/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_151/issues/2) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#19](https://github.com/a11y-PT/report_151/issues/19) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 14/08/2026
+**Data:** 17/08/2026
 
 Lista de Issues do report_078 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -14,7 +14,7 @@ Lista de Issues do report_078 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#13](https://github.com/a11y-PT/report_078/issues/13) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#30](https://github.com/a11y-PT/report_078/issues/30) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#60](https://github.com/a11y-PT/report_078/issues/60) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#54](https://github.com/a11y-PT/report_078/issues/54) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#54](https://github.com/a11y-PT/report_078/issues/54) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios são claramente indicados como tal | OK | [#46](https://github.com/a11y-PT/report_078/issues/46) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado de forma imediata | melhoria | [#2](https://github.com/a11y-PT/report_078/issues/2) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#33](https://github.com/a11y-PT/report_078/issues/33) |
