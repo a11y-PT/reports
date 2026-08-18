@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 17/08/2026
+**Data:** 18/08/2026
 
 Lista de Issues do report_103 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -16,7 +16,7 @@ Lista de Issues do report_103 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#16](https://github.com/a11y-PT/report_103/issues/16) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#8](https://github.com/a11y-PT/report_103/issues/8) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | NOK | [#9](https://github.com/a11y-PT/report_103/issues/9) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#13](https://github.com/a11y-PT/report_103/issues/13) |
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#13](https://github.com/a11y-PT/report_103/issues/13) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#3](https://github.com/a11y-PT/report_103/issues/3) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#22](https://github.com/a11y-PT/report_103/issues/22) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#23](https://github.com/a11y-PT/report_103/issues/23) |

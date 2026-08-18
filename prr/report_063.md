@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 17/08/2026
+**Data:** 18/08/2026
 
 Lista de Issues do report_063 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -18,7 +18,7 @@ Lista de Issues do report_063 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | corrigido | [#66](https://github.com/a11y-PT/report_063/issues/66) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | corrigido | [#67](https://github.com/a11y-PT/report_063/issues/67) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Ausência de mensagem de confirmação após submissão bem-sucedida de formulário | NOK | [#16](https://github.com/a11y-PT/report_063/issues/16) |
-| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | NOK | [#23](https://github.com/a11y-PT/report_063/issues/23) |
+| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#23](https://github.com/a11y-PT/report_063/issues/23) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Todos campos têm mensagens de erro na sua vizinhança | OK | [#70](https://github.com/a11y-PT/report_063/issues/70) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Todas as mensagens de erro estão associadas programaticamente aos respetivos campos | OK | [#71](https://github.com/a11y-PT/report_063/issues/71) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_063/issues/1) |

@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 17/08/2026
+**Data:** 18/08/2026
 
 Lista de Issues do report_078 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta do campo de pesquisa não visível | NOK | [#22](https://github.com/a11y-PT/report_078/issues/22) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta do campo de pesquisa não visível | corrigido | [#22](https://github.com/a11y-PT/report_078/issues/22) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | corrigido | [#12](https://github.com/a11y-PT/report_078/issues/12) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem estruturada indevidamente como item de navegação | corrigido | [#58](https://github.com/a11y-PT/report_078/issues/58) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não têm contraste suficiente | corrigido | [#65](https://github.com/a11y-PT/report_078/issues/65) |

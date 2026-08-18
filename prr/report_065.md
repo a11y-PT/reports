@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 17/08/2026
+**Data:** 18/08/2026
 
 Lista de Issues do report_065 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,8 +8,8 @@ Lista de Issues do report_065 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - Existem campos sem etiquetas associadas | corrigido | [#49](https://github.com/a11y-PT/report_065/issues/49) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - O atributo placeholder está a substituir a etiqueta | corrigido | [#50](https://github.com/a11y-PT/report_065/issues/50) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagens link com texto alternativo incorreto. | NOK | [#4](https://github.com/a11y-PT/report_065/issues/4) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagem-link com nome acessível definido incorretamente através de title | NOK | [#77](https://github.com/a11y-PT/report_065/issues/77) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagens link com texto alternativo incorreto. | corrigido | [#4](https://github.com/a11y-PT/report_065/issues/4) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagem-link com nome acessível definido incorretamente através de title | corrigido | [#77](https://github.com/a11y-PT/report_065/issues/77) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos Web - Texto normal não tem contraste suficiente | NOK | [#46](https://github.com/a11y-PT/report_065/issues/46) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#54](https://github.com/a11y-PT/report_065/issues/54) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo  - O conteúdo do site fica desformatado em resoluções mais pequenas | corrigido | [#70](https://github.com/a11y-PT/report_065/issues/70) |
