@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 18/08/2026
+**Data:** 19/08/2026
 
 Lista de Issues do report_174 filtrados pelas labels constantes nas duas primeiras colunas.
 

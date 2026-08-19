@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 18/08/2026
+**Data:** 19/08/2026
 
 Lista de Issues do report_109 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,7 +17,7 @@ Lista de Issues do report_109 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#4](https://github.com/a11y-PT/report_109/issues/4) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#15](https://github.com/a11y-PT/report_109/issues/15) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | corrigido | [#3](https://github.com/a11y-PT/report_109/issues/3) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas aos respetivos campos | NOK | [#5](https://github.com/a11y-PT/report_109/issues/5) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas aos respetivos campos | corrigido | [#5](https://github.com/a11y-PT/report_109/issues/5) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_109/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_109/issues/2) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#14](https://github.com/a11y-PT/report_109/issues/14) |

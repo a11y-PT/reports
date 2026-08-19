@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 18/08/2026
+**Data:** 19/08/2026
 
 Lista de Issues do report_064 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -19,4 +19,4 @@ Lista de Issues do report_064 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | corrigido | [#4](https://github.com/a11y-PT/report_064/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Apresentação correta de mensagens de erro | OK | [#68](https://github.com/a11y-PT/report_064/issues/68) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_064/issues/1) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#2](https://github.com/a11y-PT/report_064/issues/2) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#2](https://github.com/a11y-PT/report_064/issues/2) |

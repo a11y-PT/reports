@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 18/08/2026
+**Data:** 19/08/2026
 
 Lista de Issues do report_185 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -13,3 +13,4 @@ Lista de Issues do report_185 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 app" | label:"R 8.1" | R 8.1 - 10 Aspetos App - Conteúdo gráfico sem alternativa em texto adequada | NOK | [#9](https://github.com/a11y-PT/report_185/issues/9) |
 | label:"chk 10 app" | label:"R 9.1" | R 9.1 - 10 Aspetos App - Textos com contraste abaixo do recomendado | NOK | [#6](https://github.com/a11y-PT/report_185/issues/6) |
 | label:"chk 10 app" | label:"R 10.1" | R 10.1 - 10 Aspetos App  - Idioma da aplicação corretamente identificado | OK | [#5](https://github.com/a11y-PT/report_185/issues/5) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório e perfil dos participantes pode ser melhorado | melhoria | [#10](https://github.com/a11y-PT/report_185/issues/10) |
