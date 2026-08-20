@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 19/08/2026
+**Data:** 20/08/2026
 
 Lista de Issues do report_155 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -15,6 +15,6 @@ Lista de Issues do report_155 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#11](https://github.com/a11y-PT/report_155/issues/11) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#12](https://github.com/a11y-PT/report_155/issues/12) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | melhoria | [#3](https://github.com/a11y-PT/report_155/issues/3) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagem de erro do grupo de checkboxes não corretamente associada aos campos | NOK | [#7](https://github.com/a11y-PT/report_155/issues/7) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagem de erro do grupo de checkboxes não corretamente associada aos campos | corrigido | [#7](https://github.com/a11y-PT/report_155/issues/7) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_155/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_155/issues/2) |

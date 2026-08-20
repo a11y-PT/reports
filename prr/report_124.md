@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 19/08/2026
+**Data:** 20/08/2026
 
 Lista de Issues do report_124 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -20,6 +20,6 @@ Lista de Issues do report_124 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#17](https://github.com/a11y-PT/report_124/issues/17) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | corrigido | [#4](https://github.com/a11y-PT/report_124/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#12](https://github.com/a11y-PT/report_124/issues/12) |
-| label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_124/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_124/issues/1) |
 | label:"av auto" |  | Avaliação Automática  - Rocket Validator - Apresenta erros de Acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_124/issues/2) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#16](https://github.com/a11y-PT/report_124/issues/16) |

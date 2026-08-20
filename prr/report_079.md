@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 19/08/2026
+**Data:** 20/08/2026
 
 Lista de Issues do report_079 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,5 +17,5 @@ Lista de Issues do report_079 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | corrigido | [#74](https://github.com/a11y-PT/report_079/issues/74) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Ausência de mensagem de confirmação após submissão bem-sucedida de formulário | melhoria | [#9](https://github.com/a11y-PT/report_079/issues/9) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro não são apresentadas junto aos campos de origem | NOK | [#34](https://github.com/a11y-PT/report_079/issues/34) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#3](https://github.com/a11y-PT/report_079/issues/3) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#3](https://github.com/a11y-PT/report_079/issues/3) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#4](https://github.com/a11y-PT/report_079/issues/4) |

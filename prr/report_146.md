@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 19/08/2026
+**Data:** 20/08/2026
 
 Lista de Issues do report_146 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,5 +17,5 @@ Lista de Issues do report_146 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF e Word | NOK | [#16](https://github.com/a11y-PT/report_146/issues/16) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#3](https://github.com/a11y-PT/report_146/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#7](https://github.com/a11y-PT/report_146/issues/7) |
-| label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_146/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_146/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - não se consegue avaliar | melhoria | [#2](https://github.com/a11y-PT/report_146/issues/2) |
