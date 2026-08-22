@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 20/08/2026
+**Data:** 22/08/2026
 
 Lista de Issues do report_035 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,7 +8,7 @@ Lista de Issues do report_035 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Formulários pdf com etiquetas não discerníveis pelas tecnologias de apoio | corrigido | [#107](https://github.com/a11y-PT/report_035/issues/107) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - etiquetas invisíveis para todos os agentes | corrigido | [#113](https://github.com/a11y-PT/report_035/issues/113) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiquetas associadas a botões de pesquisa | NOK | [#114](https://github.com/a11y-PT/report_035/issues/114) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiquetas associadas a botões de pesquisa | corrigido | [#114](https://github.com/a11y-PT/report_035/issues/114) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_035/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | corrigido | [#68](https://github.com/a11y-PT/report_035/issues/68) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O menu principal e lateral possui tamanho de fonte abaixo do recomendado | corrigido | [#2](https://github.com/a11y-PT/report_035/issues/2) |

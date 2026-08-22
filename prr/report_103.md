@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 20/08/2026
+**Data:** 22/08/2026
 
 Lista de Issues do report_103 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -21,7 +21,7 @@ Lista de Issues do report_103 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#22](https://github.com/a11y-PT/report_103/issues/22) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#23](https://github.com/a11y-PT/report_103/issues/23) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campo marcado simultaneamente como obrigatório e opcional | NOK | [#24](https://github.com/a11y-PT/report_103/issues/24) |
-| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#4](https://github.com/a11y-PT/report_103/issues/4) |
+| label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | corrigido | [#4](https://github.com/a11y-PT/report_103/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#6](https://github.com/a11y-PT/report_103/issues/6) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - URL could not be reached | melhoria | [#1](https://github.com/a11y-PT/report_103/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#2](https://github.com/a11y-PT/report_103/issues/2) |

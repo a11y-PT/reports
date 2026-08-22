@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 20/08/2026
+**Data:** 22/08/2026
 
 Lista de Issues do report_068 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -19,4 +19,4 @@ Lista de Issues do report_068 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#26](https://github.com/a11y-PT/report_068/issues/26) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Mensagens de erro de autenticação e validação não totalmente acessíveis nem corretamente anunciadas | corrigido | [#64](https://github.com/a11y-PT/report_068/issues/64) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens de erro apresentadas entre a etiqueta e o campo | corrigido | [#29](https://github.com/a11y-PT/report_068/issues/29) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório | NOK | [#1](https://github.com/a11y-PT/report_068/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório | OK | [#1](https://github.com/a11y-PT/report_068/issues/1) |

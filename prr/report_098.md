@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 20/08/2026
+**Data:** 22/08/2026
 
 Lista de Issues do report_098 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta não programaticamente associada ao campo de data | corrigido | [#42](https://github.com/a11y-PT/report_098/issues/42) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos -Imagem link possui um equivalente alternativo insuficiente | NOK | [#36](https://github.com/a11y-PT/report_098/issues/36) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos -Imagem link possui um equivalente alternativo insuficiente | corrigido | [#36](https://github.com/a11y-PT/report_098/issues/36) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal tem contraste suficiente no website | OK | [#32](https://github.com/a11y-PT/report_098/issues/32) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#44](https://github.com/a11y-PT/report_098/issues/44) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#25](https://github.com/a11y-PT/report_098/issues/25) |

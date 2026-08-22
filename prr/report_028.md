@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 20/08/2026
+**Data:** 22/08/2026
 
 Lista de Issues do report_028 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação explicita entre campo de edição e etiqueta | NOK | [#107](https://github.com/a11y-PT/report_028/issues/107) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação explicita entre campo de edição e etiqueta | corrigido | [#107](https://github.com/a11y-PT/report_028/issues/107) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_028/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | corrigido | [#68](https://github.com/a11y-PT/report_028/issues/68) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O menu principal possui tamanho de fonte abaixo do recomendado | corrigido | [#2](https://github.com/a11y-PT/report_028/issues/2) |
@@ -21,7 +21,7 @@ Lista de Issues do report_028 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Indicação de obrigatoriedade mal implementada nos campos do formulário | melhoria | [#115](https://github.com/a11y-PT/report_028/issues/115) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | melhoria | [#21](https://github.com/a11y-PT/report_028/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Inexistência de mensagens de erro na vizinhança dos campos | NOK | [#18](https://github.com/a11y-PT/report_028/issues/18) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas programaticamente | NOK | [#116](https://github.com/a11y-PT/report_028/issues/116) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas programaticamente | corrigido | [#116](https://github.com/a11y-PT/report_028/issues/116) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_028/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | OK | [#110](https://github.com/a11y-PT/report_028/issues/110) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#117](https://github.com/a11y-PT/report_028/issues/117) |

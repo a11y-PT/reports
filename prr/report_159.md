@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 20/08/2026
+**Data:** 22/08/2026
 
 Lista de Issues do report_159 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -11,8 +11,8 @@ Lista de Issues do report_159 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto dos elementos interativos possui contraste abaixo do recomendado | melhoria | [#8](https://github.com/a11y-PT/report_159/issues/8) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Mensagem de aviso com contraste abaixo do recomendado | NOK | [#9](https://github.com/a11y-PT/report_159/issues/9) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#10](https://github.com/a11y-PT/report_159/issues/10) |
-| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#3](https://github.com/a11y-PT/report_159/issues/3) |
+| label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#3](https://github.com/a11y-PT/report_159/issues/3) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações com apresentação visual inconsistente | melhoria | [#4](https://github.com/a11y-PT/report_159/issues/4) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#5](https://github.com/a11y-PT/report_159/issues/5) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_159/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_159/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_159/issues/2) |

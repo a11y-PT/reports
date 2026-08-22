@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 20/08/2026
+**Data:** 22/08/2026
 
 Lista de Issues do report_172 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,3 +17,4 @@ Lista de Issues do report_172 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Inexistência de formulários com validação de erros | N/A | [#4](https://github.com/a11y-PT/report_172/issues/4) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#2](https://github.com/a11y-PT/report_172/issues/2) |
 | label:"av auto" |  | Avaliação automática - We couldn't reach that URL | melhoria | [#3](https://github.com/a11y-PT/report_172/issues/3) |
+| label:"testes usabilidade" |  | Testes de usabilidade - Existem participantes com necessidades especiais de tipologias diferentes | melhoria | [#13](https://github.com/a11y-PT/report_172/issues/13) |

@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 20/08/2026
+**Data:** 22/08/2026
 
 Lista de Issues do report_082 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação correta entre etiquetas e campos de formulário | OK | [#22](https://github.com/a11y-PT/report_082/issues/22) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link sem texto alternativo | NOK | [#3](https://github.com/a11y-PT/report_082/issues/3) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link sem texto alternativo | corrigido | [#3](https://github.com/a11y-PT/report_082/issues/3) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não tem contraste suficiente | corrigido | [#41](https://github.com/a11y-PT/report_082/issues/41) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal não tem contraste suficiente em certos estados | corrigido | [#42](https://github.com/a11y-PT/report_082/issues/42) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#36](https://github.com/a11y-PT/report_082/issues/36) |
