@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 22/08/2026
+**Data:** 25/08/2026
 
 Lista de Issues do report_060 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -22,4 +22,4 @@ Lista de Issues do report_060 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens de erro apresentadas entre a etiqueta e o campo | corrigido | [#72](https://github.com/a11y-PT/report_060/issues/72) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem mensagens não associadas programaticamente aos campos | corrigido | [#73](https://github.com/a11y-PT/report_060/issues/73) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_060/issues/1) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#27](https://github.com/a11y-PT/report_060/issues/27) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#27](https://github.com/a11y-PT/report_060/issues/27) |

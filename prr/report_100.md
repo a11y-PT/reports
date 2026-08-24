@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 22/08/2026
+**Data:** 25/08/2026
 
 Lista de Issues do report_100 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,7 +8,7 @@ Lista de Issues do report_100 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | NOK | [#16](https://github.com/a11y-PT/report_100/issues/16) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - As etiquetas visíveis não são as que estão associadas ao campo | corrigido | [#17](https://github.com/a11y-PT/report_100/issues/17) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | NOK | [#22](https://github.com/a11y-PT/report_100/issues/22) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | corrigido | [#22](https://github.com/a11y-PT/report_100/issues/22) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#12](https://github.com/a11y-PT/report_100/issues/12) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#20](https://github.com/a11y-PT/report_100/issues/20) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#14](https://github.com/a11y-PT/report_100/issues/14) |

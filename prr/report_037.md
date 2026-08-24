@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 22/08/2026
+**Data:** 25/08/2026
 
 Lista de Issues do report_037 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,7 +12,7 @@ Lista de Issues do report_037 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O menu principal possui tamanho de texto abaixo do recomendado | melhoria | [#2](https://github.com/a11y-PT/report_037/issues/2) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | corrigido | [#39](https://github.com/a11y-PT/report_037/issues/39) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - A informação sobre contactos no rodapé possui tamanho inferior a 16px | corrigido | [#40](https://github.com/a11y-PT/report_037/issues/40) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo tem um tamanho de texto inferior a 12pt (16px) | NOK | [#41](https://github.com/a11y-PT/report_037/issues/41) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo tem um tamanho de texto inferior a 12pt (16px) | corrigido | [#41](https://github.com/a11y-PT/report_037/issues/41) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não são consistentes ao longo do website | melhoria | [#30](https://github.com/a11y-PT/report_037/issues/30) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não se diferenciam do texto envolvente | NOK | [#31](https://github.com/a11y-PT/report_037/issues/31) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações não possuem contraste ao longo do website  | OK | [#32](https://github.com/a11y-PT/report_037/issues/32) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 22/08/2026
+**Data:** 25/08/2026
 
 Lista de Issues do report_183 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -16,5 +16,5 @@ Lista de Issues do report_183 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | melhoria | [#9](https://github.com/a11y-PT/report_183/issues/9) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback de sucesso anunciado de forma tardia e seguido da leitura da restante página | melhoria | [#7](https://github.com/a11y-PT/report_183/issues/7) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro na vizinhança dos campos e programaticamente associadas a eles | OK | [#10](https://github.com/a11y-PT/report_183/issues/10) |
-| label:"av auto" |  | Access Monitor - Accessmonitor/Observatório (em avaliação) | NOK | [#5](https://github.com/a11y-PT/report_183/issues/5) |
+| label:"av auto" |  | Access Monitor - Extensão Accessmonitor | NOK | [#5](https://github.com/a11y-PT/report_183/issues/5) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#12](https://github.com/a11y-PT/report_183/issues/12) |

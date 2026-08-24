@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 22/08/2026
+**Data:** 25/08/2026
 
 Lista de Issues do report_059 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - Campo de pesquisa com label não acessível (placeholder a substituir a label) | NOK | [#47](https://github.com/a11y-PT/report_059/issues/47) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagem link têm um equivalente alternativo incorreto | NOK | [#10](https://github.com/a11y-PT/report_059/issues/10) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos Web - Campo de pesquisa com label não acessível (placeholder a substituir a label) | corrigido | [#47](https://github.com/a11y-PT/report_059/issues/47) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos Web - Imagem link têm um equivalente alternativo incorreto | corrigido | [#10](https://github.com/a11y-PT/report_059/issues/10) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal têm contraste suficiente | OK | [#43](https://github.com/a11y-PT/report_059/issues/43) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Informações primárias não possuem tamanho mínimo recomendado | NOK | [#11](https://github.com/a11y-PT/report_059/issues/11) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações sem indicação visual | corrigido | [#13](https://github.com/a11y-PT/report_059/issues/13) |

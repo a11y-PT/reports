@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 22/08/2026
+**Data:** 25/08/2026
 
 Lista de Issues do report_086 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,5 +17,5 @@ Lista de Issues do report_086 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Uso redundante de atributos obrigatórios em campos de formulário | melhoria | [#58](https://github.com/a11y-PT/report_086/issues/58) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado de forma imediata | melhoria | [#4](https://github.com/a11y-PT/report_086/issues/4) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Todas as mensagens de erro estão associadas programaticamente aos respetivos campos | OK | [#72](https://github.com/a11y-PT/report_086/issues/72) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_086/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_086/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_086/issues/2) |

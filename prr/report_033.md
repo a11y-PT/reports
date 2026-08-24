@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 22/08/2026
+**Data:** 25/08/2026
 
 Lista de Issues do report_033 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -18,6 +18,7 @@ Lista de Issues do report_033 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | corrigido | [#112](https://github.com/a11y-PT/report_033/issues/112) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF e Word | NOK | [#113](https://github.com/a11y-PT/report_033/issues/113) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Indicação de obrigatoriedade mal implementada nos campos do formulário | melhoria | [#114](https://github.com/a11y-PT/report_033/issues/114) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios sem indicação visual | NOK | [#117](https://github.com/a11y-PT/report_033/issues/117) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | corrigido | [#21](https://github.com/a11y-PT/report_033/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Campos sem mensagens de erro na sua vizinhança | NOK | [#18](https://github.com/a11y-PT/report_033/issues/18) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Inexistência de associação programática das mensagens de erro aos campos | NOK | [#115](https://github.com/a11y-PT/report_033/issues/115) |
