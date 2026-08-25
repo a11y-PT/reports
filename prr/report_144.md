@@ -6,10 +6,10 @@ Lista de Issues do report_144 filtrados pelas labels constantes nas duas primeir
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | NOK | [#9](https://github.com/a11y-PT/report_144/issues/9) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta estruturada com link | NOK | [#10](https://github.com/a11y-PT/report_144/issues/10) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#11](https://github.com/a11y-PT/report_144/issues/11) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | NOK | [#12](https://github.com/a11y-PT/report_144/issues/12) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | corrigido | [#9](https://github.com/a11y-PT/report_144/issues/9) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta estruturada com link | corrigido | [#10](https://github.com/a11y-PT/report_144/issues/10) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | melhoria | [#11](https://github.com/a11y-PT/report_144/issues/11) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | corrigido | [#12](https://github.com/a11y-PT/report_144/issues/12) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link apresentam múltiplas fontes de nome acessível | corrigido | [#7](https://github.com/a11y-PT/report_144/issues/7) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#8](https://github.com/a11y-PT/report_144/issues/8) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#15](https://github.com/a11y-PT/report_144/issues/15) |

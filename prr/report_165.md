@@ -7,7 +7,7 @@ Lista de Issues do report_165 filtrados pelas labels constantes nas duas primeir
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | NOK | [#9](https://github.com/a11y-PT/report_165/issues/9) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os campos com a mesma função estão rotulados com nomes diferentes | NOK | [#13](https://github.com/a11y-PT/report_165/issues/13) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os campos com a mesma função estão rotulados com nomes diferentes | corrigido | [#13](https://github.com/a11y-PT/report_165/issues/13) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#14](https://github.com/a11y-PT/report_165/issues/14) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | melhoria | [#8](https://github.com/a11y-PT/report_165/issues/8) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal tem contraste suficiente | OK | [#16](https://github.com/a11y-PT/report_165/issues/16) |

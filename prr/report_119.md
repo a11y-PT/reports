@@ -19,5 +19,5 @@ Lista de Issues do report_119 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | corrigido | [#3](https://github.com/a11y-PT/report_119/issues/3) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#10](https://github.com/a11y-PT/report_119/issues/10) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_119/issues/1) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#2](https://github.com/a11y-PT/report_119/issues/2) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#2](https://github.com/a11y-PT/report_119/issues/2) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#14](https://github.com/a11y-PT/report_119/issues/14) |

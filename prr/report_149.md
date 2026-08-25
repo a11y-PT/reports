@@ -8,9 +8,9 @@ Lista de Issues do report_149 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O leitor de ecrã não está a reconhecer a etiqueta | melhoria | [#8](https://github.com/a11y-PT/report_149/issues/8) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | NOK | [#9](https://github.com/a11y-PT/report_149/issues/9) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#10](https://github.com/a11y-PT/report_149/issues/10) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | corrigido | [#10](https://github.com/a11y-PT/report_149/issues/10) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os campos com a mesma função estão rotulados com nomes diferentes | corrigido | [#11](https://github.com/a11y-PT/report_149/issues/11) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | NOK | [#7](https://github.com/a11y-PT/report_149/issues/7) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | corrigido | [#7](https://github.com/a11y-PT/report_149/issues/7) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#13](https://github.com/a11y-PT/report_149/issues/13) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#12](https://github.com/a11y-PT/report_149/issues/12) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Contraste insuficiente entre as hiperligações e o texto envolvente | corrigido | [#5](https://github.com/a11y-PT/report_149/issues/5) |

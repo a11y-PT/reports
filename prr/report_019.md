@@ -17,7 +17,7 @@ Lista de Issues do report_019 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro não estão associadas no código ao campo de input a que dizem respeito | OK | [#76](https://github.com/a11y-PT/report_019/issues/76) |
 | label:"av auto" |  | Avaliação automática - Grupos de ligações (links) com o mesmo texto apontam para destinos diferentes | OK | [#5](https://github.com/a11y-PT/report_019/issues/5) |
 | label:"av auto" |  | Avaliação automática - O "link saltar para o conteúdo principal" não recebe o foco quando se navega com o teclado e leitor de ecrã | OK | [#6](https://github.com/a11y-PT/report_019/issues/6) |
-| label:"av auto" |  | Avaliação automática - Todas as páginas da amostra do Observatório têm pontuação acima de 9  | OK | [#62](https://github.com/a11y-PT/report_019/issues/62) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#62](https://github.com/a11y-PT/report_019/issues/62) |
 | label:"av auto" |  | Avaliação automática - A modal dos cookies com atributo role="dialog" não tem nome acessível | melhoria | [#81](https://github.com/a11y-PT/report_019/issues/81) |
 | label:"av auto" |  | Avaliação automática - O link "Saltar para o conteúdo principal" tem um tabindex superior a 0 | melhoria | [#82](https://github.com/a11y-PT/report_019/issues/82) |
 | label:"av auto" |  | Avaliação automática - Access Monitor +  R 2.2 - 10 Aspectos - Cabeçalhos sem nome acessível | chk 10 web, OK, R 2.2 | [#84](https://github.com/a11y-PT/report_019/issues/84) |
