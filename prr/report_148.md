@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 25/08/2026
+**Data:** 26/08/2026
 
 Lista de Issues do report_148 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | NOK | [#8](https://github.com/a11y-PT/report_148/issues/8) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta estruturada com link | NOK | [#9](https://github.com/a11y-PT/report_148/issues/9) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | corrigido | [#8](https://github.com/a11y-PT/report_148/issues/8) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiqueta estruturada com link | corrigido | [#9](https://github.com/a11y-PT/report_148/issues/9) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulário externos sendo incorporados no website | melhoria | [#10](https://github.com/a11y-PT/report_148/issues/10) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | corrigido | [#11](https://github.com/a11y-PT/report_148/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os campos com a mesma função estão rotulados com nomes diferentes | corrigido | [#12](https://github.com/a11y-PT/report_148/issues/12) |

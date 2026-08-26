@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 25/08/2026
+**Data:** 26/08/2026
 
 Lista de Issues do report_152 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,6 +8,7 @@ Lista de Issues do report_152 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | corrigido | [#8](https://github.com/a11y-PT/report_152/issues/8) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulário externos sendo incorporados no website | melhoria | [#10](https://github.com/a11y-PT/report_152/issues/10) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | melhoria | [#17](https://github.com/a11y-PT/report_152/issues/17) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens utilizadas como hiperligações que não apresentam um equivalente textual adequado | melhoria | [#7](https://github.com/a11y-PT/report_152/issues/7) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#13](https://github.com/a11y-PT/report_152/issues/13) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#16](https://github.com/a11y-PT/report_152/issues/16) |

@@ -1,14 +1,14 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 25/08/2026
+**Data:** 26/08/2026
 
 Lista de Issues do report_150 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | NOK | [#8](https://github.com/a11y-PT/report_150/issues/8) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | corrigido | [#8](https://github.com/a11y-PT/report_150/issues/8) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os campos com a mesma função estão rotulados com nomes diferentes | corrigido | [#12](https://github.com/a11y-PT/report_150/issues/12) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | corrigido | [#13](https://github.com/a11y-PT/report_150/issues/13) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | melhoria | [#13](https://github.com/a11y-PT/report_150/issues/13) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | corrigido | [#7](https://github.com/a11y-PT/report_150/issues/7) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste insuficiente entre a cor do texto e a cor de fundo | corrigido | [#14](https://github.com/a11y-PT/report_150/issues/14) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#16](https://github.com/a11y-PT/report_150/issues/16) |
