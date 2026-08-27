@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 26/08/2026
+**Data:** 27/08/2026
 
 Lista de Issues do report_158 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -11,7 +11,7 @@ Lista de Issues do report_158 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Etiquetas invisíveis para todos os agentes | corrigido | [#12](https://github.com/a11y-PT/report_158/issues/12) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | corrigido | [#7](https://github.com/a11y-PT/report_158/issues/7) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto dos elementos interativos possui contraste abaixo do recomendado | melhoria | [#8](https://github.com/a11y-PT/report_158/issues/8) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto das etiquetas e a informação do campo ser obrigatório possuem contraste abaixo do recomendado | NOK | [#9](https://github.com/a11y-PT/report_158/issues/9) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto das etiquetas e a informação do campo ser obrigatório possuem contraste abaixo do recomendado | corrigido | [#9](https://github.com/a11y-PT/report_158/issues/9) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#14](https://github.com/a11y-PT/report_158/issues/14) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#5](https://github.com/a11y-PT/report_158/issues/5) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#6](https://github.com/a11y-PT/report_158/issues/6) |

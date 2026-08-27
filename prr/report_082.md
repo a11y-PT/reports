@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 26/08/2026
+**Data:** 27/08/2026
 
 Lista de Issues do report_082 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -16,6 +16,6 @@ Lista de Issues do report_082 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#25](https://github.com/a11y-PT/report_082/issues/25) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Campos obrigatórios sem indicação visual | corrigido | [#69](https://github.com/a11y-PT/report_082/issues/69) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Mensagem de sucesso corretamente apresentada e anunciada após submissão | OK | [#11](https://github.com/a11y-PT/report_082/issues/11) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro não são apresentadas junto aos campos de origem | NOK | [#64](https://github.com/a11y-PT/report_082/issues/64) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_082/issues/1) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro não são apresentadas junto aos campos de origem | corrigido | [#64](https://github.com/a11y-PT/report_082/issues/64) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#1](https://github.com/a11y-PT/report_082/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_082/issues/2) |

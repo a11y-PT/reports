@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 26/08/2026
+**Data:** 27/08/2026
 
 Lista de Issues do report_080 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -14,6 +14,6 @@ Lista de Issues do report_080 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#36](https://github.com/a11y-PT/report_080/issues/36) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | corrigido | [#58](https://github.com/a11y-PT/report_080/issues/58) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#4](https://github.com/a11y-PT/report_080/issues/4) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro duplicadas identificadas junto aos campos de origem | NOK | [#21](https://github.com/a11y-PT/report_080/issues/21) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro duplicadas identificadas junto aos campos de origem | corrigido | [#21](https://github.com/a11y-PT/report_080/issues/21) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_080/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_080/issues/2) |

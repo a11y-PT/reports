@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 26/08/2026
+**Data:** 27/08/2026
 
 Lista de Issues do report_131 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,7 +17,7 @@ Lista de Issues do report_131 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#20](https://github.com/a11y-PT/report_131/issues/20) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações estão corretamente identificadas | OK | [#5](https://github.com/a11y-PT/report_131/issues/5) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#4](https://github.com/a11y-PT/report_131/issues/4) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | NOK | [#18](https://github.com/a11y-PT/report_131/issues/18) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF | melhoria | [#18](https://github.com/a11y-PT/report_131/issues/18) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#19](https://github.com/a11y-PT/report_131/issues/19) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | corrigido | [#2](https://github.com/a11y-PT/report_131/issues/2) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#8](https://github.com/a11y-PT/report_131/issues/8) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 26/08/2026
+**Data:** 27/08/2026
 
 Lista de Issues do report_099 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,7 +12,7 @@ Lista de Issues do report_099 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#43](https://github.com/a11y-PT/report_099/issues/43) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#24](https://github.com/a11y-PT/report_099/issues/24) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#27](https://github.com/a11y-PT/report_099/issues/27) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | NOK | [#47](https://github.com/a11y-PT/report_099/issues/47) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | corrigido | [#47](https://github.com/a11y-PT/report_099/issues/47) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado | melhoria | [#9](https://github.com/a11y-PT/report_099/issues/9) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro sem associação clara aos respetivos campos | corrigido | [#42](https://github.com/a11y-PT/report_099/issues/42) |
 | label:"av auto" |  | Avaliação Automática - Extensão Accessmonitor | OK | [#1](https://github.com/a11y-PT/report_099/issues/1) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 26/08/2026
+**Data:** 27/08/2026
 
 Lista de Issues do report_045 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -20,7 +20,7 @@ Lista de Issues do report_045 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF e Word | NOK | [#115](https://github.com/a11y-PT/report_045/issues/115) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | corrigido | [#21](https://github.com/a11y-PT/report_045/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Campos sem mensagem de erro na vizinhança | corrigido | [#18](https://github.com/a11y-PT/report_045/issues/18) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - campos sem mensagens de erro programaticamente associadas | NOK | [#112](https://github.com/a11y-PT/report_045/issues/112) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - campos sem mensagens de erro programaticamente associadas | corrigido | [#112](https://github.com/a11y-PT/report_045/issues/112) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_045/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | OK | [#110](https://github.com/a11y-PT/report_045/issues/110) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#116](https://github.com/a11y-PT/report_045/issues/116) |

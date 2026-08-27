@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 26/08/2026
+**Data:** 27/08/2026
 
 Lista de Issues do report_145 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -19,6 +19,6 @@ Lista de Issues do report_145 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados como tal | NOK | [#19](https://github.com/a11y-PT/report_145/issues/19) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF e Word | NOK | [#20](https://github.com/a11y-PT/report_145/issues/20) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback anunciado com utilização de região ARIA inadequada | melhoria | [#3](https://github.com/a11y-PT/report_145/issues/3) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas programaticamente aos respetivos campos | NOK | [#7](https://github.com/a11y-PT/report_145/issues/7) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro não associadas programaticamente aos respetivos campos | corrigido | [#7](https://github.com/a11y-PT/report_145/issues/7) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_145/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_145/issues/2) |
