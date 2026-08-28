@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 27/08/2026
+**Data:** 28/08/2026
 
 Lista de Issues do report_159 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -9,7 +9,7 @@ Lista de Issues do report_159 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Campos sem etiquetas associadas | corrigido | [#11](https://github.com/a11y-PT/report_159/issues/11) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | NOK | [#6](https://github.com/a11y-PT/report_159/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto dos elementos interativos possui contraste abaixo do recomendado | melhoria | [#8](https://github.com/a11y-PT/report_159/issues/8) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Mensagem de aviso com contraste abaixo do recomendado | NOK | [#9](https://github.com/a11y-PT/report_159/issues/9) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Mensagem de aviso com contraste abaixo do recomendado | corrigido | [#9](https://github.com/a11y-PT/report_159/issues/9) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#10](https://github.com/a11y-PT/report_159/issues/10) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#3](https://github.com/a11y-PT/report_159/issues/3) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Hiperligações com apresentação visual inconsistente | melhoria | [#4](https://github.com/a11y-PT/report_159/issues/4) |

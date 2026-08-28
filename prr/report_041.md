@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 27/08/2026
+**Data:** 28/08/2026
 
 Lista de Issues do report_041 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -21,7 +21,7 @@ Lista de Issues do report_041 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não há informação clara sobre o que é o asterisco nos campos de preenchimento obrigatório | corrigido | [#128](https://github.com/a11y-PT/report_041/issues/128) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | corrigido | [#21](https://github.com/a11y-PT/report_041/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - existem formulários sem mensagens de erro programaticamente associadas aos campos | corrigido | [#20](https://github.com/a11y-PT/report_041/issues/20) |
-| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem formulários sem mensagens de erro na vizinhança dos campos | NOK | [#101](https://github.com/a11y-PT/report_041/issues/101) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem formulários sem mensagens de erro na vizinhança dos campos | corrigido | [#101](https://github.com/a11y-PT/report_041/issues/101) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#108](https://github.com/a11y-PT/report_041/issues/108) |
 | label:"av auto" |  | Avaliação automática - Pack 20 | OK | [#110](https://github.com/a11y-PT/report_041/issues/110) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#137](https://github.com/a11y-PT/report_041/issues/137) |
