@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 28/08/2026
+**Data:** 31/08/2026
 
 Lista de Issues do report_153 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,7 +8,7 @@ Lista de Issues do report_153 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulário externos sendo incorporados no website | melhoria | [#7](https://github.com/a11y-PT/report_153/issues/7) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não corresponde ao nome acessível | corrigido | [#8](https://github.com/a11y-PT/report_153/issues/8) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#9](https://github.com/a11y-PT/report_153/issues/9) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | corrigido | [#9](https://github.com/a11y-PT/report_153/issues/9) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem campos que não possuem etiqueta | corrigido | [#10](https://github.com/a11y-PT/report_153/issues/10) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Campos com etiquetas em inglês | corrigido | [#11](https://github.com/a11y-PT/report_153/issues/11) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | corrigido | [#6](https://github.com/a11y-PT/report_153/issues/6) |

@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 28/08/2026
+**Data:** 31/08/2026
 
 Lista de Issues do report_173 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -11,7 +11,7 @@ Lista de Issues do report_173 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto dos elementos interativos possui contraste abaixo do recomendado | melhoria | [#9](https://github.com/a11y-PT/report_173/issues/9) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#10](https://github.com/a11y-PT/report_173/issues/10) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#5](https://github.com/a11y-PT/report_173/issues/5) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | NOK | [#6](https://github.com/a11y-PT/report_173/issues/6) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada de 44px CSS | corrigido | [#6](https://github.com/a11y-PT/report_173/issues/6) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#11](https://github.com/a11y-PT/report_173/issues/11) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | NOK | [#1](https://github.com/a11y-PT/report_173/issues/1) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#4](https://github.com/a11y-PT/report_173/issues/4) |

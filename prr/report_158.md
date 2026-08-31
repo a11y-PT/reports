@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 28/08/2026
+**Data:** 31/08/2026
 
 Lista de Issues do report_158 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -21,3 +21,4 @@ Lista de Issues do report_158 filtrados pelas labels constantes nas duas primeir
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_158/issues/1) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - We couldn't reach that URL | melhoria | [#2](https://github.com/a11y-PT/report_158/issues/2) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#15](https://github.com/a11y-PT/report_158/issues/15) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#19](https://github.com/a11y-PT/report_158/issues/19) |

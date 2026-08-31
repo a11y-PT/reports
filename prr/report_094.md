@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 28/08/2026
+**Data:** 31/08/2026
 
 Lista de Issues do report_094 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -16,5 +16,5 @@ Lista de Issues do report_094 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Há campos obrigatórios que não estão identificados programaticamente | corrigido | [#54](https://github.com/a11y-PT/report_094/issues/54) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado | melhoria | [#17](https://github.com/a11y-PT/report_094/issues/17) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro sem associação clara aos respetivos campos | corrigido | [#52](https://github.com/a11y-PT/report_094/issues/52) |
-| label:"av auto" |  | Avaliação Automática - Extensão Accessmonitor | NOK | [#1](https://github.com/a11y-PT/report_094/issues/1) |
+| label:"av auto" |  | Avaliação Automática - Extensão Accessmonitor | OK | [#1](https://github.com/a11y-PT/report_094/issues/1) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O perfil de participantes da amostra é diferente do recomendado | melhoria | [#55](https://github.com/a11y-PT/report_094/issues/55) |
