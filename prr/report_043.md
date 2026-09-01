@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 31/08/2026
+**Data:** 01/09/2026
 
 Lista de Issues do report_043 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -15,7 +15,7 @@ Lista de Issues do report_043 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo tem um tamanho de texto inferior a 12pt (16px) | corrigido | [#41](https://github.com/a11y-PT/report_043/issues/41) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações diferenciam-se do texto envolvente | OK | [#111](https://github.com/a11y-PT/report_043/issues/111) |
 | label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Os elementos interativos têm uma dimensão mínima de 44px | corrigido | [#13](https://github.com/a11y-PT/report_043/issues/13) |
-| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF e Word | NOK | [#112](https://github.com/a11y-PT/report_043/issues/112) |
+| label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF e Word | melhoria | [#112](https://github.com/a11y-PT/report_043/issues/112) |
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Redundância na indicação de campos obrigatórios | melhoria | [#113](https://github.com/a11y-PT/report_043/issues/113) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - O Sucesso do envio/submissão da informação é confirmada | melhoria | [#21](https://github.com/a11y-PT/report_043/issues/21) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - As mensagens de erro são claramente identificadas junto aos campos de origem | OK | [#18](https://github.com/a11y-PT/report_043/issues/18) |

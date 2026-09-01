@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [report_137](https://a11y-pt.github.io/reports/prr_app/report_137) | Y | Y | Y | Y | Y | Y | -- | 100.0% |
 | [report_138](https://a11y-pt.github.io/reports/prr_app/report_138) | N | N | N | N | N | Y | -- | 20.0% |
-| [report_139](https://a11y-pt.github.io/reports/prr_app/report_139) | N | Y | N | Y | Y | Y | -- | 80.0% |
+| [report_139](https://a11y-pt.github.io/reports/prr_app/report_139) | Y | Y | Y | Y | Y | Y | -- | 100.0% |
 | [report_140](https://a11y-pt.github.io/reports/prr_app/report_140) | Y | Y | Y | Y | Y | Y | Y | 100.0% |
 | [report_141](https://a11y-pt.github.io/reports/prr_app/report_141) | Y | Y | Y | Y | Y | Y | Y | 100.0% |
 | [report_142](https://a11y-pt.github.io/reports/prr_app/report_142) | Y | Y | Y | Y | Y | Y | Y | 100.0% |

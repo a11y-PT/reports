@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 31/08/2026
+**Data:** 01/09/2026
 
 Lista de Issues do report_055 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -14,6 +14,6 @@ Lista de Issues do report_055 filtrados pelas labels constantes nas duas primeir
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#10](https://github.com/a11y-PT/report_055/issues/10) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | NOK | [#17](https://github.com/a11y-PT/report_055/issues/17) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#26](https://github.com/a11y-PT/report_055/issues/26) |
-| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | NOK | [#42](https://github.com/a11y-PT/report_055/issues/42) |
+| label:"chk conteúdo" | label:"R 5.2" | R 5.2 - Conteúdo - Elementos interativos com área clicável inferior à dimensão mínima recomendada | corrigido | [#42](https://github.com/a11y-PT/report_055/issues/42) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#19](https://github.com/a11y-PT/report_055/issues/19) |
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#25](https://github.com/a11y-PT/report_055/issues/25) |

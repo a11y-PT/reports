@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 31/08/2026
+**Data:** 01/09/2026
 
 Lista de Issues do report_089 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#10](https://github.com/a11y-PT/report_089/issues/10) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | corrigido | [#10](https://github.com/a11y-PT/report_089/issues/10) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | melhoria | [#11](https://github.com/a11y-PT/report_089/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | corrigido | [#12](https://github.com/a11y-PT/report_089/issues/12) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | corrigido | [#5](https://github.com/a11y-PT/report_089/issues/5) |

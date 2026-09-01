@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 31/08/2026
+**Data:** 01/09/2026
 
 Lista de Issues do report_134 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,7 +12,7 @@ Lista de Issues do report_134 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O campo em foco deve ter uma indicação visual clara | melhoria | [#14](https://github.com/a11y-PT/report_134/issues/14) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulário externos sendo incorporados no website | melhoria | [#15](https://github.com/a11y-PT/report_134/issues/15) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os radiobuttons não estão agrupados por fieldset | NOK | [#16](https://github.com/a11y-PT/report_134/issues/16) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | NOK | [#6](https://github.com/a11y-PT/report_134/issues/6) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | corrigido | [#6](https://github.com/a11y-PT/report_134/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste insuficiente entre a cor do texto e a cor de fundo | corrigido | [#7](https://github.com/a11y-PT/report_134/issues/7) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#17](https://github.com/a11y-PT/report_134/issues/17) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | corrigido | [#5](https://github.com/a11y-PT/report_134/issues/5) |
