@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 01/09/2026
+**Data:** 02/09/2026
 
 Lista de Issues do report_103 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,7 +8,7 @@ Lista de Issues do report_103 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | melhoria | [#7](https://github.com/a11y-PT/report_103/issues/7) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#10](https://github.com/a11y-PT/report_103/issues/10) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#11](https://github.com/a11y-PT/report_103/issues/11) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | corrigido | [#11](https://github.com/a11y-PT/report_103/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não corresponde ao nome acessível | NOK | [#12](https://github.com/a11y-PT/report_103/issues/12) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | NOK | [#14](https://github.com/a11y-PT/report_103/issues/14) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Uso desnecessário de atributos em fieldset | melhoria | [#15](https://github.com/a11y-PT/report_103/issues/15) |
