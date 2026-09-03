@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 02/09/2026
+**Data:** 03/09/2026
 
 Lista de Issues do report_036 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Associação explicita entre campo de edição e etiqueta | corrigido | [#107](https://github.com/a11y-PT/report_036/issues/107) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_036/issues/51) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | corrigido | [#51](https://github.com/a11y-PT/report_036/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | corrigido | [#68](https://github.com/a11y-PT/report_036/issues/68) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O menu principal possui tamanho de fonte abaixo do recomendado | OK | [#2](https://github.com/a11y-PT/report_036/issues/2) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | corrigido | [#39](https://github.com/a11y-PT/report_036/issues/39) |

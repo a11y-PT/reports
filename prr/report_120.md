@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 02/09/2026
+**Data:** 03/09/2026
 
 Lista de Issues do report_120 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | melhoria | [#7](https://github.com/a11y-PT/report_120/issues/7) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#8](https://github.com/a11y-PT/report_120/issues/8) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | corrigido | [#8](https://github.com/a11y-PT/report_120/issues/8) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os radiobuttons não estão agrupados por fieldset | melhoria | [#10](https://github.com/a11y-PT/report_120/issues/10) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Uso desnecessário do fieldset | melhoria | [#11](https://github.com/a11y-PT/report_120/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O campo em foco deve ter uma indicação visual clara | melhoria | [#12](https://github.com/a11y-PT/report_120/issues/12) |
