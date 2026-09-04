@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/09/2026
+**Data:** 04/09/2026
 
 Lista de Issues do report_041 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -12,7 +12,7 @@ Lista de Issues do report_041 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_041/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | melhoria | [#68](https://github.com/a11y-PT/report_041/issues/68) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O menu principal possui tamanho de fonte de 16px | OK | [#2](https://github.com/a11y-PT/report_041/issues/2) |
-| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | NOK | [#39](https://github.com/a11y-PT/report_041/issues/39) |
+| label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | corrigido | [#39](https://github.com/a11y-PT/report_041/issues/39) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - A informação sobre contactos no rodapé possui tamanho inferior a 16px | corrigido | [#40](https://github.com/a11y-PT/report_041/issues/40) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo -  O conteúdo tem um tamanho de texto inferior a 12pt (16px) | corrigido | [#41](https://github.com/a11y-PT/report_041/issues/41) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - As hiperligações diferenciam-se do texto envolvente | OK | [#123](https://github.com/a11y-PT/report_041/issues/123) |

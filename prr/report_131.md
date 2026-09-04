@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/09/2026
+**Data:** 04/09/2026
 
 Lista de Issues do report_131 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -9,7 +9,7 @@ Lista de Issues do report_131 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | melhoria | [#10](https://github.com/a11y-PT/report_131/issues/10) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#11](https://github.com/a11y-PT/report_131/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | NOK | [#12](https://github.com/a11y-PT/report_131/issues/12) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não corresponde ao nome acessível | NOK | [#13](https://github.com/a11y-PT/report_131/issues/13) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não corresponde ao nome acessível | corrigido | [#13](https://github.com/a11y-PT/report_131/issues/13) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Uso desnecessário do fieldset | melhoria | [#16](https://github.com/a11y-PT/report_131/issues/16) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O campo em foco deve ter uma indicação visual clara | melhoria | [#17](https://github.com/a11y-PT/report_131/issues/17) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens utilizadas como hiperligações que não apresentam um equivalente textual adequado. | corrigido | [#6](https://github.com/a11y-PT/report_131/issues/6) |

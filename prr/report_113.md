@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 03/09/2026
+**Data:** 04/09/2026
 
 Lista de Issues do report_113 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | corrigido | [#9](https://github.com/a11y-PT/report_113/issues/9) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | melhoria | [#9](https://github.com/a11y-PT/report_113/issues/9) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O placeholder está a substituir a etiqueta | corrigido | [#10](https://github.com/a11y-PT/report_113/issues/10) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | corrigido | [#5](https://github.com/a11y-PT/report_113/issues/5) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#8](https://github.com/a11y-PT/report_113/issues/8) |
