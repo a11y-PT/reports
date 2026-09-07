@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 04/09/2026
+**Data:** 07/09/2026
 
 Lista de Issues do report_117 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | melhoria | [#10](https://github.com/a11y-PT/report_117/issues/10) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#11](https://github.com/a11y-PT/report_117/issues/11) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | corrigido | [#11](https://github.com/a11y-PT/report_117/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | corrigido | [#12](https://github.com/a11y-PT/report_117/issues/12) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Uso desnecessário do fieldset | melhoria | [#13](https://github.com/a11y-PT/report_117/issues/13) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulário externos sendo incorporados no website | melhoria | [#14](https://github.com/a11y-PT/report_117/issues/14) |
