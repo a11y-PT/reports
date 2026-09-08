@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 07/09/2026
+**Data:** 08/09/2026
 
 Lista de Issues do report_146 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -19,3 +19,4 @@ Lista de Issues do report_146 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#7](https://github.com/a11y-PT/report_146/issues/7) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_146/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - não se consegue avaliar | melhoria | [#2](https://github.com/a11y-PT/report_146/issues/2) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#19](https://github.com/a11y-PT/report_146/issues/19) |

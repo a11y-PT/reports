@@ -1,13 +1,13 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 07/09/2026
+**Data:** 08/09/2026
 
 Lista de Issues do report_157 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#8](https://github.com/a11y-PT/report_157/issues/8) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem campos que não possuem etiquetas | NOK | [#9](https://github.com/a11y-PT/report_157/issues/9) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem campos que não possuem etiquetas | corrigido | [#9](https://github.com/a11y-PT/report_157/issues/9) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem-link possui um equivalente alternativo disponibilizado através de title | corrigido | [#7](https://github.com/a11y-PT/report_157/issues/7) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto dos elementos interativos possui contraste abaixo do recomendado | melhoria | [#13](https://github.com/a11y-PT/report_157/issues/13) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#16](https://github.com/a11y-PT/report_157/issues/16) |
