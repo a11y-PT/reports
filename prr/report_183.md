@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 09/09/2026
+**Data:** 10/09/2026
 
 Lista de Issues do report_183 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não é a que está a ser anunciada pelos leitores de ecrã | NOK | [#3](https://github.com/a11y-PT/report_183/issues/3) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não é a que está a ser anunciada pelos leitores de ecrã | corrigido | [#3](https://github.com/a11y-PT/report_183/issues/3) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os radiobuttons não estão agrupados por fieldset | NOK | [#4](https://github.com/a11y-PT/report_183/issues/4) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - As imagens-link têm um equivalente alternativo correto | OK | [#1](https://github.com/a11y-PT/report_183/issues/1) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Contraste entre texto e fundo conforme o requisito | OK | [#11](https://github.com/a11y-PT/report_183/issues/11) |
