@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 10/09/2026
+**Data:** 11/09/2026
 
 Lista de Issues do report_156 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os radiobuttons não estão agrupados por fieldset | NOK | [#7](https://github.com/a11y-PT/report_156/issues/7) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os radiobuttons não estão agrupados por fieldset | corrigido | [#7](https://github.com/a11y-PT/report_156/issues/7) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto ou insuficiente | corrigido | [#6](https://github.com/a11y-PT/report_156/issues/6) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos -  O texto normal tem contraste suficiente | OK | [#9](https://github.com/a11y-PT/report_156/issues/9) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | corrigido | [#11](https://github.com/a11y-PT/report_156/issues/11) |

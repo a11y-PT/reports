@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 10/09/2026
+**Data:** 11/09/2026
 
 Lista de Issues do report_019 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -20,5 +20,3 @@ Lista de Issues do report_019 filtrados pelas labels constantes nas duas primeir
 | label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#62](https://github.com/a11y-PT/report_019/issues/62) |
 | label:"av auto" |  | Avaliação automática - A modal dos cookies com atributo role="dialog" não tem nome acessível | melhoria | [#81](https://github.com/a11y-PT/report_019/issues/81) |
 | label:"av auto" |  | Avaliação automática - O link "Saltar para o conteúdo principal" tem um tabindex superior a 0 | melhoria | [#82](https://github.com/a11y-PT/report_019/issues/82) |
-| label:"av auto" |  | Avaliação automática - Access Monitor +  R 2.2 - 10 Aspectos - Cabeçalhos sem nome acessível | chk 10 web, OK, R 2.2 | [#84](https://github.com/a11y-PT/report_019/issues/84) |
-| label:"av auto" |  | Avaliação automática - Access Monitor +  R 2.2 - 10 Aspectos - Cabeçalhos sem nome acessível | chk 10 web, OK, R 2.2 | [#84](https://github.com/a11y-PT/report_019/issues/84) |
