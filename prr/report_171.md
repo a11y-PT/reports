@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 11/09/2026
+**Data:** 14/09/2026
 
 Lista de Issues do report_171 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -17,3 +17,4 @@ Lista de Issues do report_171 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagem de erro sem identificação programática | corrigido | [#4](https://github.com/a11y-PT/report_171/issues/4) |
 | label:"av auto" |  | Avaliação Automática - Accessmonito/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_171/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_171/issues/2) |
+| label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | melhoria | [#12](https://github.com/a11y-PT/report_171/issues/12) |
