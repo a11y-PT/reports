@@ -198,3 +198,4 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_194 - Centro de Medicina de Reabilitação de Alcoitão - SCML](https://a11y-pt.github.io/report_194/)
 - [report_195 - HOSA - Hospital Ortopédico de Sant'Ana - SCML](https://a11y-pt.github.io/report_195/)
 - [report_196 - Aldeia de Santa Isabel - SCML](https://a11y-pt.github.io/report_196/)
+- [report_197 - Santa Casa da Misericórdia de Lisboa - SCML](https://a11y-pt.github.io/report_197/)
