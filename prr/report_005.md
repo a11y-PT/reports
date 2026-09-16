@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 15/09/2026
+**Data:** 16/09/2026
 
 Lista de Issues do report_005 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -8,7 +8,7 @@ Lista de Issues do report_005 filtrados pelas labels constantes nas duas primeir
 |:--|:--|:--|:--|:--|
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A label (ícone) visível não é a que está associada ao campo | OK | [#37](https://github.com/a11y-PT/report_005/issues/37) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - As caixas de seleção não possuem legenda e etiquetas associadas ao campo | corrigido | [#105](https://github.com/a11y-PT/report_005/issues/105) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens-link com texto alternativo em inglês | melhoria | [#82](https://github.com/a11y-PT/report_005/issues/82) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens-link com texto alternativo em inglês | corrigido | [#82](https://github.com/a11y-PT/report_005/issues/82) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Existem imagens-link com texto alternativo inapropriado | OK | [#101](https://github.com/a11y-PT/report_005/issues/101) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Existem elementos interativos que não possuem contraste | OK | [#38](https://github.com/a11y-PT/report_005/issues/38) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - O texto normal não tem contraste suficiente | OK | [#39](https://github.com/a11y-PT/report_005/issues/39) |
