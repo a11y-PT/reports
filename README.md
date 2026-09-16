@@ -193,4 +193,8 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_189 - PRR - MNAZ - Museu do Azulejo App iOS](https://a11y-pt.github.io/report_189/)
 - [report_190 - PRR - Municipio de São João da Madeira APP iOS](https://a11y-pt.github.io/report_190/)
 - [report_191 - Hidrografico](https://a11y-pt.github.io/report_191/)
-
+- [report_192 - Lisboa com Vida - SCML](https://a11y-pt.github.io/report_192/)
+- [report_193 - Jogo Responsável - SCML](https://a11y-pt.github.io/report_193/)
+- [report_194 - Centro de Medicina de Reabilitação de Alcoitão - SCML](https://a11y-pt.github.io/report_194/)
+- [report_195 - HOSA - Hospital Ortopédico de Sant'Ana - SCML](https://a11y-pt.github.io/report_195/)
+- [report_196 - Aldeia de Santa Isabel - SCML](https://a11y-pt.github.io/report_196/)
