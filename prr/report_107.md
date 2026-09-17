@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 16/09/2026
+**Data:** 17/09/2026
 
 Lista de Issues do report_107 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -9,7 +9,7 @@ Lista de Issues do report_107 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O switch não possui etiqueta associada ao campo | melhoria | [#8](https://github.com/a11y-PT/report_107/issues/8) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | melhoria | [#9](https://github.com/a11y-PT/report_107/issues/9) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | corrigido | [#10](https://github.com/a11y-PT/report_107/issues/10) |
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | NOK | [#11](https://github.com/a11y-PT/report_107/issues/11) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas que não estão associadas ao seu respetivo campo | corrigido | [#11](https://github.com/a11y-PT/report_107/issues/11) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - O placeholder está a substituir a etiqueta | melhoria | [#13](https://github.com/a11y-PT/report_107/issues/13) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta visível não corresponde ao nome acessível | melhoria | [#14](https://github.com/a11y-PT/report_107/issues/14) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | corrigido | [#6](https://github.com/a11y-PT/report_107/issues/6) |

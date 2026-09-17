@@ -1,12 +1,12 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 16/09/2026
+**Data:** 17/09/2026
 
 Lista de Issues do report_145 filtrados pelas labels constantes nas duas primeiras colunas.
 
 | Checklist | Requisito | Título do Issue | Etiquetas do issue | Link GitHub |
 |:--|:--|:--|:--|:--|
-| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | NOK | [#10](https://github.com/a11y-PT/report_145/issues/10) |
+| label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulários em PDF | corrigido | [#10](https://github.com/a11y-PT/report_145/issues/10) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Uso desnecessário do fieldset | melhoria | [#13](https://github.com/a11y-PT/report_145/issues/13) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem formulário externos sendo incorporados no website | corrigido | [#15](https://github.com/a11y-PT/report_145/issues/15) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Os radiobuttons não estão agrupados por fieldset | corrigido | [#16](https://github.com/a11y-PT/report_145/issues/16) |
