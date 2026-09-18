@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 17/09/2026
+**Data:** 18/09/2026
 
 Lista de Issues do report_056 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -19,4 +19,4 @@ Lista de Issues do report_056 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não acessível | melhoria | [#13](https://github.com/a11y-PT/report_056/issues/13) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Existem formulários sem Mensagens de erro junto aos campos | melhoria | [#76](https://github.com/a11y-PT/report_056/issues/76) |
 | label:"av auto" |  | Avaliação automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#1](https://github.com/a11y-PT/report_056/issues/1) |
-| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | NOK | [#2](https://github.com/a11y-PT/report_056/issues/2) |
+| label:"av auto" |  | Avaliação Automática - Access Monitor / Observatório (em avaliação) | OK | [#2](https://github.com/a11y-PT/report_056/issues/2) |
