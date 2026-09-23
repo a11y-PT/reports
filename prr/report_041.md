@@ -10,7 +10,7 @@ Lista de Issues do report_041 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas em formulários PDF não discerníveis semanticamente | melhoria | [#132](https://github.com/a11y-PT/report_041/issues/132) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Existem etiquetas invisíveis no ecrã | melhoria | [#134](https://github.com/a11y-PT/report_041/issues/134) |
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - A etiqueta não está visível | corrigido | [#139](https://github.com/a11y-PT/report_041/issues/139) |
-| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | NOK | [#51](https://github.com/a11y-PT/report_041/issues/51) |
+| label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagens-link com textos alternativos incorretos | corrigido | [#51](https://github.com/a11y-PT/report_041/issues/51) |
 | label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Problemas de contraste para texto normal | melhoria | [#68](https://github.com/a11y-PT/report_041/issues/68) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O menu principal possui tamanho de fonte de 16px | OK | [#2](https://github.com/a11y-PT/report_041/issues/2) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - Etiquetas dos campos de preenchimento possuem tamanho abaixo do recomendado | corrigido | [#39](https://github.com/a11y-PT/report_041/issues/39) |
