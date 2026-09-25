@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 24/09/2026
+**Data:** 25/09/2026
 
 Lista de Issues do report_163 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -18,4 +18,4 @@ Lista de Issues do report_163 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#7](https://github.com/a11y-PT/report_163/issues/7) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_163/issues/1) |
 | label:"av auto" |  | Avaliação Automática - Rocket Validator - Existem erros de acessibilidade | melhoria | [#2](https://github.com/a11y-PT/report_163/issues/2) |
-| label:"testes usabilidade" |  | Testes de usabilidade - Relatório incompleto | NOK | [#21](https://github.com/a11y-PT/report_163/issues/21) |
+| label:"testes usabilidade" |  | Testes de usabilidade - Relatório incompleto | melhoria | [#21](https://github.com/a11y-PT/report_163/issues/21) |

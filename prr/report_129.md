@@ -1,6 +1,6 @@
 ## Relatório de Auditoria Amostral (versão PRR)
 
-**Data:** 24/09/2026
+**Data:** 25/09/2026
 
 Lista de Issues do report_129 filtrados pelas labels constantes nas duas primeiras colunas.
 
@@ -19,5 +19,6 @@ Lista de Issues do report_129 filtrados pelas labels constantes nas duas primeir
 | label:"chk transação" | label:"R 2.4" | R 2.4 - Transação - Não é possível identificar campos obrigatórios nos formulários em PDF e Word | corrigido | [#14](https://github.com/a11y-PT/report_129/issues/14) |
 | label:"chk transação" | label:"R 3.2" | R 3.2 - Transação - Feedback após submissão não anunciado pelo leitor de ecrã | corrigido | [#2](https://github.com/a11y-PT/report_129/issues/2) |
 | label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#11](https://github.com/a11y-PT/report_129/issues/11) |
+| label:"chk transação" | label:"R 4.3" | R 4.3 - Transação - Mensagens de erro corretamente associadas aos respetivos campos | OK | [#20](https://github.com/a11y-PT/report_129/issues/20) |
 | label:"av auto" |  | Avaliação Automática - Accessmonitor/Observatório (em avaliação) | OK | [#1](https://github.com/a11y-PT/report_129/issues/1) |
 | label:"testes usabilidade" |  | Testes de usabilidade - O relatório apresenta as informações necessárias | OK | [#16](https://github.com/a11y-PT/report_129/issues/16) |
