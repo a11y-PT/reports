@@ -10,7 +10,7 @@ Lista de Issues do report_055 filtrados pelas labels constantes nas duas primeir
 | label:"chk 10 web" | label:"R 4.1" | R 4.1 - 10 Aspetos - Campos de filtro da Agenda com labels não visíveis | corrigido | [#59](https://github.com/a11y-PT/report_055/issues/59) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Imagem link têm um equivalente alternativo incorreto | NOK | [#7](https://github.com/a11y-PT/report_055/issues/7) |
 | label:"chk 10 web" | label:"R 5.3" | R 5.3 - 10 Aspetos - Nome acessível pouco descritivo em botões de navegação temporal | melhoria | [#20](https://github.com/a11y-PT/report_055/issues/20) |
-| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não tem contraste suficiente | NOK | [#28](https://github.com/a11y-PT/report_055/issues/28) |
+| label:"chk 10 web" | label:"R 6.1" | R 6.1 - 10 Aspetos - Texto normal não tem contraste suficiente | corrigido | [#28](https://github.com/a11y-PT/report_055/issues/28) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O corpo de texto tem um tamanho inferior a 12pt (equivalente a 16px) | NOK | [#10](https://github.com/a11y-PT/report_055/issues/10) |
 | label:"chk conteúdo" | label:"R 2.1" | R 2.1 - Conteúdo - O conteúdo do site fica desformatado em resoluções mais pequenas | NOK | [#17](https://github.com/a11y-PT/report_055/issues/17) |
 | label:"chk conteúdo" | label:"R 3.3" | R 3.3 - Conteúdo - Falta de identificação complementar nas hiperligações | NOK | [#26](https://github.com/a11y-PT/report_055/issues/26) |
