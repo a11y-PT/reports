@@ -215,4 +215,7 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_211 - GC - Gestão de Candidaturas da Startup Portugal](https://a11y-pt.github.io/report_211/)
 - [report_212 - Câmara Municipal de Castro Daire](https://a11y-pt.github.io/report_212/)
 - [report_213 - Fundo Rainha D. Leonor - SCML](https://a11y-pt.github.io/report_213/)
+- [report_214 - UC 360 - Universidade Coimbra](https://a11y-pt.github.io/report_214/)
+- [report_215 - Câmara Municipal de Lamego](https://a11y-pt.github.io/report_215/)
+
 
