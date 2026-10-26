@@ -226,4 +226,6 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_222 - Bairro Comercial Digital de Lagoa (Açores)](https://a11y-pt.github.io/report_222/)
 - [report_223 - Programa Demografia Qualificações e Inclusão - PESSOAS 2030](https://a11y-pt.github.io/report_223/)
 - [report_224 - Portal myIHRU](https://a11y-pt.github.io/report_224/)
+- [report_225 - PRR - Santo António WEB](https://a11y-pt.github.io/report_225/)
+
 
