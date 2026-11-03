@@ -228,6 +228,6 @@ Esta página contém uma lista sequencial dos relatórios de auditoria produzido
 - [report_224 - Portal myIHRU](https://a11y-pt.github.io/report_224/)
 - [report_225 - 000](https://a11y-pt.github.io/report_225/)
 - [report_226 - Casa Ásia - Coleção Francisco Capelo - SCML](https://a11y-pt.github.io/report_226/)
-- [report_227 - FAF - Fornecedor de Atributos de Funcionário - gov.pt](https://a11y-pt.github.io/report_227/)
-
+- [report_227 - PRR - Município de Tabuaço](https://a11y-pt.github.io/report_227/)
+- [report_228 - FAF - Fornecedor de Atributos de Funcionário - gov.pt](https://a11y-pt.github.io/report_228/)
 
